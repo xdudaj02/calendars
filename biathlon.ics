@@ -2,591 +2,1431 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Kontiolahti\, Kontiolahti\, Finland\nMen 15km Short Individual\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP01SMSI
-DURATION:PT1H
-DTSTART:20241203T152000Z
-SUMMARY:IBU WC Kontiolahti M 15km Short IN
-UID:8c73bea8-a9cb-47de-8953-2ef28e290c9c@8c73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nLe Grand-Bornand Biathlon Arena\, Annecy-Le Grand Bornand\, France\nMen 12.5km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP03SMPU
-DURATION:PT1H
-DTSTART:20241221T113000Z
-SUMMARY:IBU WC Annecy-Le Grand Bornand M 12.5km PU
-UID:6455bad2-eb47-43a5-9058-24ab65d46791@6455.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Kontiolahti\, Kontiolahti\, Finland\nMen 10km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP01SMSP
-DURATION:PT1H
-DTSTART:20241206T152000Z
-SUMMARY:IBU WC Kontiolahti M 10km SP
-UID:dcb05954-e09b-4e86-bff5-b1aa3440c644@dcb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Open European Championships Biathlon\nBiathlon Center Martell\, Martell-Val Martello\, Italy\nMen 10km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SCEUCH__SMSP
-DURATION:PT1H
-DTSTART:20250131T131500Z
-SUMMARY:IBU OECH Martell-Val Martello M 10km SP
-UID:3654da13-6f33-4df8-93c7-5a548bde0484@3654.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nSports Centre Triglav\, Pokljuka\, Slovenia\nWomen 12.5km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP08SWMS
-DURATION:PT1H
-DTSTART:20250316T123500Z
-SUMMARY:IBU WC Pokljuka W 12.5km MS
-UID:f1d57700-f15a-4e12-b3ec-84a0e07798c8@f1d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nMen 4.5km Super Sprint Qual. Heat 4\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SMH4
-DURATION:PT1H
-DTSTART:20240823T083000Z
-SUMMARY:IBU SWCH Otepaa M 4.5km SS Q H4
-UID:2d5e980d-01a1-456f-9f16-c38cb64ae0e9@2d5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nSuedtirol Arena Alto Adige\, Antholz-Anterselva\, Italy\nWomen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP06SWSP
-DURATION:PT1H
-DTSTART:20250123T133000Z
-SUMMARY:IBU WC Antholz-Anterselva W 7.5km SP
-UID:8782547d-93ff-4b32-9d47-af9b826935c1@8782.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nHolmenkollen\, Oslo Holmenkollen\, Norway\nMen 15km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP09SMMS
-DURATION:PT1H
-DTSTART:20250323T121500Z
-SUMMARY:IBU WC Oslo Holmenkollen M 15km MS
-UID:e86b19dc-c963-485b-bb75-475ffe20583c@e86b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Kontiolahti\, Kontiolahti\, Finland\nWomen 4x6km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP01SWRL
-DURATION:PT1H
-DTSTART:20241201T162500Z
-SUMMARY:IBU WC Kontiolahti W 4x6km RL
-UID:18312c72-cc89-4655-8cc7-463e7b2940b6@1831.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nWomen 12.5km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SWMS
-DURATION:PT1H
-DTSTART:20250223T124500Z
-SUMMARY:IBU WCH Lenzerheide W 12.5km MS
-UID:125a0ba3-b0b8-4248-a5e9-f32d096ffbc5@125a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nWomen 4x6km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SWRL
-DURATION:PT1H
-DTSTART:20250222T110500Z
-SUMMARY:IBU WCH Lenzerheide W 4x6km RL
-UID:8e7e46dd-3bb3-4633-8b81-c6e89f33ee7d@8e7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nMen 10km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SMSP
-DURATION:PT1H
-DTSTART:20250215T140500Z
-SUMMARY:IBU WCH Lenzerheide M 10km SP
-UID:71dc346d-dbef-4c85-afff-4ede5fb451c4@71dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Kontiolahti\, Kontiolahti\, Finland\nWomen 12.5km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP01SWMS
-DURATION:PT1H
-DTSTART:20241208T161000Z
-SUMMARY:IBU WC Kontiolahti W 12.5km MS
-UID:5fba208c-69bb-48f5-a229-70386dd4e6e5@5fba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nChiemgau Arena\, Ruhpolding\, Germany\nMen 4x7.5km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP05SMRL
-DURATION:PT1H
-DTSTART:20250117T132000Z
-SUMMARY:IBU WC Ruhpolding M 4x7.5km RL
-UID:196c4618-e970-4989-a522-5eb634cc3c1b@196c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Hochfilzen\, Hochfilzen\, Austria\nMen 4x7.5km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP02SMRL
-DURATION:PT1H
-DTSTART:20241215T131500Z
-SUMMARY:IBU WC Hochfilzen M 4x7.5km RL
-UID:05a5ccba-7b5a-4834-8be4-b8735ad85a38@05a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nLe Grand-Bornand Biathlon Arena\, Annecy-Le Grand Bornand\, France\nMen 15km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP03SMMS
-DURATION:PT1H
-DTSTART:20241222T113000Z
-SUMMARY:IBU WC Annecy-Le Grand Bornand M 15km MS
-UID:fcbcb08c-430a-40eb-a4df-09f4711f0ec8@fcbc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nARENA am Rennsteig\, Oberhof\, Germany\nMen 12.5km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP04SMPU
-DURATION:PT1H
-DTSTART:20250111T134500Z
-SUMMARY:IBU WC Oberhof M 12.5km PU
-UID:2ef53c4f-0746-4847-a875-0df40435fc3a@2ef5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nSuedtirol Arena Alto Adige\, Antholz-Anterselva\, Italy\nMen 4x7.5km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP06SMRL
-DURATION:PT1H
-DTSTART:20250125T135500Z
-SUMMARY:IBU WC Antholz-Anterselva M 4x7.5km RL
-UID:6bcc169b-ab4a-43d5-a5c5-26187aff1181@6bcc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nWomen 10km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SWPU
-DURATION:PT1H
-DTSTART:20250216T110500Z
-SUMMARY:IBU WCH Lenzerheide W 10km PU
-UID:b42e31e7-3bef-4386-b595-8973fd8c8f06@b42e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nMen 12.5km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SMPU
-DURATION:PT1H
-DTSTART:20250216T140500Z
-SUMMARY:IBU WCH Lenzerheide M 12.5km PU
-UID:0c1880df-7166-4cba-9329-86d0a986007b@0c18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Hochfilzen\, Hochfilzen\, Austria\nWomen 4x6km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP02SWRL
-DURATION:PT1H
-DTSTART:20241215T103000Z
-SUMMARY:IBU WC Hochfilzen W 4x6km RL
-UID:914603f9-3ed5-4708-9140-3985f90425ff@9146.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nWomen 7.5km Super Sprint Final\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SWSF
-DURATION:PT1H
-DTSTART:20240823T160000Z
-SUMMARY:IBU SWCH Otepaa W 7.5km SS F
-UID:93e46fa8-00fc-45a5-aeae-ceb68245a54f@93e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Open European Championships Biathlon\nBiathlon Center Martell\, Martell-Val Martello\, Italy\nWomen 15km Individual\nhttps://www.biathlonworld.com/startlist/BT2425SCEUCH__SWIN
-DURATION:PT1H
-DTSTART:20250129T093000Z
-SUMMARY:IBU OECH Martell-Val Martello W 15km IN
-UID:e89d7c1e-0281-4f10-bd77-9d8b678db6b9@e89d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nMen 20km Individual\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SMIN
-DURATION:PT1H
-DTSTART:20250219T140500Z
-SUMMARY:IBU WCH Lenzerheide M 20km IN
-UID:43a67179-3ffb-487b-8c8a-fb2527b462da@43a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nWomen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SWSP
-DURATION:PT1H
-DTSTART:20250214T140500Z
-SUMMARY:IBU WCH Lenzerheide W 7.5km SP
-UID:27f73910-cf53-4a6a-ac27-50dd01648b00@27f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Open European Championships Biathlon\nBiathlon Center Martell\, Martell-Val Martello\, Italy\nMen 20km Individual\nhttps://www.biathlonworld.com/startlist/BT2425SCEUCH__SMIN
-DURATION:PT1H
-DTSTART:20250129T133000Z
-SUMMARY:IBU OECH Martell-Val Martello M 20km IN
-UID:b9d8e17a-fc7b-4270-b9e5-ba487341d01f@b9d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Hochfilzen\, Hochfilzen\, Austria\nWomen 10km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP02SWPU
-DURATION:PT1H
-DTSTART:20241214T111500Z
-SUMMARY:IBU WC Hochfilzen W 10km PU
-UID:6e56f147-c690-4c7a-93c0-2bebae19e2aa@6e56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nVysocina Arena\, Nove Mesto na Morave\, Czechia\nMen 4x7.5km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP07SMRL
-DURATION:PT1H
-DTSTART:20250309T125000Z
-SUMMARY:IBU WC Nove Mesto na Morave M 4x7.5km RL
-UID:40a46f70-fea1-4a12-a5cc-8c61fd27604c@40a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nWomen 15km Individual\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SWIN
-DURATION:PT1H
-DTSTART:20250218T140500Z
-SUMMARY:IBU WCH Lenzerheide W 15km IN
-UID:c9fd7344-455e-4616-8550-46a83cfac3a4@c9fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nChiemgau Arena\, Ruhpolding\, Germany\nMen 15km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP05SMMS
-DURATION:PT1H
-DTSTART:20250119T113000Z
-SUMMARY:IBU WC Ruhpolding M 15km MS
-UID:2c59112e-0552-4d5e-bb04-020eb0581ebb@2c59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nChiemgau Arena\, Ruhpolding\, Germany\nWomen 12.5km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP05SWMS
-DURATION:PT1H
-DTSTART:20250119T140000Z
-SUMMARY:IBU WC Ruhpolding W 12.5km MS
-UID:950760df-2d3f-4901-8a70-00376b69d43d@9507.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Hochfilzen\, Hochfilzen\, Austria\nMen 10km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP02SMSP
-DURATION:PT1H
-DTSTART:20241213T132000Z
-SUMMARY:IBU WC Hochfilzen M 10km SP
-UID:667d5c05-555b-4c29-96ab-62365d1e55ca@667d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Kontiolahti\, Kontiolahti\, Finland\nMen 15km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP01SMMS
-DURATION:PT1H
-DTSTART:20241208T133000Z
-SUMMARY:IBU WC Kontiolahti M 15km MS
-UID:6cdb6b8e-2679-47c6-9e48-0885274a1206@6cdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nMen 4x7.5km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SMRL
-DURATION:PT1H
-DTSTART:20250222T140500Z
-SUMMARY:IBU WCH Lenzerheide M 4x7.5km RL
-UID:07ec65d2-ffad-43db-9d41-d0a92c178cdd@07ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nMen 4.5km Super Sprint Qual. Heat 3\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SMH3
-DURATION:PT1H
-DTSTART:20240823T080500Z
-SUMMARY:IBU SWCH Otepaa M 4.5km SS Q H3
-UID:8515b4ea-259d-4bf2-bc39-79b4cc68bbe5@8515.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Kontiolahti\, Kontiolahti\, Finland\nWomen 12.5km Short Individual\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP01SWSI
-DURATION:PT1H
-DTSTART:20241204T152000Z
-SUMMARY:IBU WC Kontiolahti W 12.5km Short IN
-UID:1667551d-c4b4-4919-b7f6-86a023e6daf5@1667.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Kontiolahti\, Kontiolahti\, Finland\nMen 4x7.5km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP01SMRL
-DURATION:PT1H
-DTSTART:20241201T124500Z
-SUMMARY:IBU WC Kontiolahti M 4x7.5km RL
-UID:e07470c1-7cb0-4be0-9163-04f50ee7e2db@e074.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nHolmenkollen\, Oslo Holmenkollen\, Norway\nMen 10km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP09SMSP
-DURATION:PT1H
-DTSTART:20250321T123000Z
-SUMMARY:IBU WC Oslo Holmenkollen M 10km SP
-UID:63266915-f481-433e-92e0-dd5d767fe709@6326.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nARENA am Rennsteig\, Oberhof\, Germany\nMen 10km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP04SMSP
-DURATION:PT1H
-DTSTART:20250110T132000Z
-SUMMARY:IBU WC Oberhof M 10km SP
-UID:d4ae5e3b-638e-458e-bcd5-0451d4d4b17e@d4ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nSports Centre Triglav\, Pokljuka\, Slovenia\nMen 15km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP08SMMS
-DURATION:PT1H
-DTSTART:20250316T144500Z
-SUMMARY:IBU WC Pokljuka M 15km MS
-UID:ddc6cd64-21b3-4c0b-aa15-ea9c88c0b56e@ddc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nARENA am Rennsteig\, Oberhof\, Germany\nWomen 10km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP04SWPU
-DURATION:PT1H
-DTSTART:20250111T113000Z
-SUMMARY:IBU WC Oberhof W 10km PU
-UID:10879138-03f1-4ef1-86f1-360158b3e582@1087.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Open European Championships Biathlon\nBiathlon Center Martell\, Martell-Val Martello\, Italy\nMen 12.5km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SCEUCH__SMPU
-DURATION:PT1H
-DTSTART:20250201T124500Z
-SUMMARY:IBU OECH Martell-Val Martello M 12.5km PU
-UID:20686412-f61a-4b2e-a50c-7e2c4275bbab@2068.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nWomen 4.5km Super Sprint Qual. Heat 2\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SWH2
-DURATION:PT1H
-DTSTART:20240823T102500Z
-SUMMARY:IBU SWCH Otepaa W 4.5km SS Q H2
-UID:cefbf450-1e21-4611-ac07-1d7e3ac57a19@cefb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Open European Championships Biathlon\nBiathlon Center Martell\, Martell-Val Martello\, Italy\nMen 4x7.5km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SCEUCH__SMRL
-DURATION:PT1H
-DTSTART:20250202T124500Z
-SUMMARY:IBU OECH Martell-Val Martello M 4x7.5km RL
-UID:b57f8ecf-b2f0-4d3f-aaac-853151f21029@b57f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nLe Grand-Bornand Biathlon Arena\, Annecy-Le Grand Bornand\, France\nWomen 12.5km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP03SWMS
-DURATION:PT1H
-DTSTART:20241222T134500Z
-SUMMARY:IBU WC Annecy-Le Grand Bornand W 12.5km MS
-UID:91749b53-1f95-44fa-a37c-204aff61cd14@9174.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nWomen 6km Sprint\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SWSP
-DURATION:PT1H
-DTSTART:20240824T140000Z
-SUMMARY:IBU SWCH Otepaa W 6km SP
-UID:a59a4bd6-119c-401f-ae54-a0a7815ec92c@a59a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nChiemgau Arena\, Ruhpolding\, Germany\nWomen 4x6km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP05SWRL
-DURATION:PT1H
-DTSTART:20250118T132000Z
-SUMMARY:IBU WC Ruhpolding W 4x6km RL
-UID:6bcb808a-b292-4b00-a3dd-146c7596351c@6bcb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nWomen 4.5km Super Sprint Qual. Heat 3\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SWH3
-DURATION:PT1H
-DTSTART:20240823T105000Z
-SUMMARY:IBU SWCH Otepaa W 4.5km SS Q H3
-UID:130fe4ff-8979-4bf5-b66b-35ce1110ee02@130f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nSuedtirol Arena Alto Adige\, Antholz-Anterselva\, Italy\nMen 10km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP06SMSP
-DURATION:PT1H
-DTSTART:20250124T133000Z
-SUMMARY:IBU WC Antholz-Anterselva M 10km SP
-UID:79d8ca2d-e501-464b-9dea-bea9dcbb63af@79d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nMen 4.5km Super Sprint Qual. Heat 2\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SMH2
-DURATION:PT1H
-DTSTART:20240823T074000Z
-SUMMARY:IBU SWCH Otepaa M 4.5km SS Q H2
-UID:d8d6e021-88c3-4fdc-a43c-74374e51b98f@d8d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nSuedtirol Arena Alto Adige\, Antholz-Anterselva\, Italy\nMen 12.5km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP06SMPU
-DURATION:PT1H
-DTSTART:20250126T134500Z
-SUMMARY:IBU WC Antholz-Anterselva M 12.5km PU
-UID:e7153af9-4f71-4934-983a-5a75432dc825@e715.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nMen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SMSP
-DURATION:PT1H
-DTSTART:20240824T114500Z
-SUMMARY:IBU SWCH Otepaa M 7.5km SP
-UID:19d40ec9-f8b0-4304-a644-5a7f2fa56d0c@19d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Hochfilzen\, Hochfilzen\, Austria\nWomen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP02SWSP
-DURATION:PT1H
-DTSTART:20241213T103000Z
-SUMMARY:IBU WC Hochfilzen W 7.5km SP
-UID:22347f81-6608-4ebc-b83a-ab2ef0053262@2234.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nSuedtirol Arena Alto Adige\, Antholz-Anterselva\, Italy\nWomen 10km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP06SWPU
-DURATION:PT1H
-DTSTART:20250125T120000Z
-SUMMARY:IBU WC Antholz-Anterselva W 10km PU
-UID:1398bf7f-a494-4d5c-a0e3-19ede4af1fa9@1398.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nVysocina Arena\, Nove Mesto na Morave\, Czechia\nMen 10km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP07SMSP
-DURATION:PT1H
-DTSTART:20250306T172000Z
-SUMMARY:IBU WC Nove Mesto na Morave M 10km SP
-UID:d3f01a53-3626-4133-b6c2-3a3604695027@d3f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nChiemgau Arena\, Ruhpolding\, Germany\nWomen 15km Individual\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP05SWIN
-DURATION:PT1H
-DTSTART:20250116T131000Z
-SUMMARY:IBU WC Ruhpolding W 15km IN
-UID:cb6c1d03-879e-4940-b273-de8730ab6ee0@cb6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nHolmenkollen\, Oslo Holmenkollen\, Norway\nMen 12.5km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP09SMPU
-DURATION:PT1H
-DTSTART:20250322T124500Z
-SUMMARY:IBU WC Oslo Holmenkollen M 12.5km PU
-UID:52b14e6c-62e0-41bf-82b6-6d8746826638@52b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nWomen 4.5km Super Sprint Qual. Heat 4\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SWH4
-DURATION:PT1H
-DTSTART:20240823T111500Z
-SUMMARY:IBU SWCH Otepaa W 4.5km SS Q H4
-UID:e1554818-5dd9-4df3-b3d1-04ee870a8112@e155.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Open European Championships Biathlon\nBiathlon Center Martell\, Martell-Val Martello\, Italy\nWomen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SCEUCH__SWSP
-DURATION:PT1H
-DTSTART:20250131T094500Z
-SUMMARY:IBU OECH Martell-Val Martello W 7.5km SP
-UID:fc205017-8068-4868-ab20-e6a42ae7da97@fc20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nVysocina Arena\, Nove Mesto na Morave\, Czechia\nWomen 4x6km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP07SWRL
-DURATION:PT1H
-DTSTART:20250309T154500Z
-SUMMARY:IBU WC Nove Mesto na Morave W 4x6km RL
-UID:7a0f6c8d-0dea-4184-9e5a-22e29092f13b@7a0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nLe Grand-Bornand Biathlon Arena\, Annecy-Le Grand Bornand\, France\nWomen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP03SWSP
-DURATION:PT1H
-DTSTART:20241220T132000Z
-SUMMARY:IBU WC Annecy-Le Grand Bornand W 7.5km SP
-UID:4d8571e4-d32b-4881-b2ef-141013524e38@4d85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nVysocina Arena\, Nove Mesto na Morave\, Czechia\nMen 12.5km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP07SMPU
-DURATION:PT1H
-DTSTART:20250308T135500Z
-SUMMARY:IBU WC Nove Mesto na Morave M 12.5km PU
-UID:952dd8a1-0c22-461a-95dc-7e8271cc2da4@952d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Open European Championships Biathlon\nBiathlon Center Martell\, Martell-Val Martello\, Italy\nWomen 10km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SCEUCH__SWPU
-DURATION:PT1H
-DTSTART:20250201T100000Z
-SUMMARY:IBU OECH Martell-Val Martello W 10km PU
-UID:667ae885-ee69-456d-ac58-28b8834cbb89@667a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nHolmenkollen\, Oslo Holmenkollen\, Norway\nWomen 10km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP09SWPU
-DURATION:PT1H
-DTSTART:20250322T145000Z
-SUMMARY:IBU WC Oslo Holmenkollen W 10km PU
-UID:a608df9a-9393-424c-b9b2-1df7e1ad0f71@a608.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nWomen Gala Mass Start\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SWMS
-DURATION:PT1H
-DTSTART:20240825T131500Z
-SUMMARY:IBU SWCH Otepaa W Gala MS
-UID:44bf5e72-48c8-48a2-8fed-56b503ad1d81@44bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nMen Gala Mass Start\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SMMS
-DURATION:PT1H
-DTSTART:20240825T111500Z
-SUMMARY:IBU SWCH Otepaa M Gala MS
-UID:3c610348-fc25-426a-a669-9870c7d16bb0@3c61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Kontiolahti\, Kontiolahti\, Finland\nWomen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP01SWSP
-DURATION:PT1H
-DTSTART:20241207T161000Z
-SUMMARY:IBU WC Kontiolahti W 7.5km SP
-UID:e022e27a-c6f3-4f5a-9663-0b76660cc50e@e022.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nSports Centre Triglav\, Pokljuka\, Slovenia\nMen 20km Individual\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP08SMIN
-DURATION:PT1H
-DTSTART:20250314T141500Z
-SUMMARY:IBU WC Pokljuka M 20km IN
-UID:dfa36d32-db5b-4b91-ab5c-7536bd98035f@dfa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nHolmenkollen\, Oslo Holmenkollen\, Norway\nWomen 12.5km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP09SWMS
-DURATION:PT1H
-DTSTART:20250323T144500Z
-SUMMARY:IBU WC Oslo Holmenkollen W 12.5km MS
-UID:3feffc6a-3130-46d1-94ab-084e9d1036b8@3fef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nSports Centre Triglav\, Pokljuka\, Slovenia\nWomen 15km Individual\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP08SWIN
-DURATION:PT1H
-DTSTART:20250313T141500Z
-SUMMARY:IBU WC Pokljuka W 15km IN
-UID:b9a0aa68-5704-41fc-8cde-59d8914ded0e@b9a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nLe Grand-Bornand Biathlon Arena\, Annecy-Le Grand Bornand\, France\nMen 10km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP03SMSP
-DURATION:PT1H
-DTSTART:20241219T132000Z
-SUMMARY:IBU WC Annecy-Le Grand Bornand M 10km SP
-UID:aad55dcf-5571-4033-af3e-ce760415a419@aad5.org
-END:VEVENT
-BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
 DESCRIPTION:IBU Open European Championships Biathlon\nBiathlon Center Martell\, Martell-Val Martello\, Italy\nWomen 4x6km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SCEUCH__SWRL
 DURATION:PT1H
 DTSTART:20250202T094500Z
 SUMMARY:IBU OECH Martell-Val Martello W 4x6km RL
-UID:03380a14-f489-45f4-a56b-4fc167ef230b@0338.org
+UID:e046cbcd-99e6-4f5b-b353-b18ddf73f273@e046.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nHolmenkollen\, Oslo Holmenkollen\, Norway\nWomen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP09SWSP
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nLe Grand-Bornand Biathlon Arena\, Annecy-Le Grand Bornand\, France\nMen 10km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP03SMSP
 DURATION:PT1H
-DTSTART:20250321T151500Z
-SUMMARY:IBU WC Oslo Holmenkollen W 7.5km SP
-UID:1d5e18da-7ec5-4c25-b6e7-9f1987c0be92@1d5e.org
+DTSTART:20241219T132000Z
+SUMMARY:IBU WC Annecy-Le Grand Bornand M 10km SP
+UID:044f33e8-a364-47ee-afb3-e5369fa4d158@044f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nChiemgau Arena\, Ruhpolding\, Germany\nMen 20km Individual\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP05SMIN
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nMen Gala Mass Start\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SMMS
 DURATION:PT1H
-DTSTART:20250115T131000Z
-SUMMARY:IBU WC Ruhpolding M 20km IN
-UID:543a43b9-1696-4467-962c-09f49a9b095a@543a.org
+DTSTART:20240825T111500Z
+SUMMARY:IBU SWCH Otepaa M Gala MS
+UID:1d3867d8-a09e-428f-9a0c-cd84702e0c23@1d38.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nVysocina Arena\, Nove Mesto na Morave\, Czechia\nWomen 10km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP07SWPU
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nChiemgau Arena\, Ruhpolding\, Germany\nMen 4x7.5km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP05SMRL
 DURATION:PT1H
-DTSTART:20250308T164000Z
-SUMMARY:IBU WC Nove Mesto na Morave W 10km PU
-UID:89377ec3-1398-4442-a18b-223f09e4fa95@8937.org
+DTSTART:20250117T132000Z
+SUMMARY:IBU WC Ruhpolding M 4x7.5km RL
+UID:266cf893-b128-44e5-a78a-6d6c136e9ea4@266c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nARENA am Rennsteig\, Oberhof\, Germany\nWomen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP04SWSP
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nChiemgau Arena\, Ruhpolding\, Germany\nWomen 12.5km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP05SWMS
 DURATION:PT1H
-DTSTART:20250109T132000Z
-SUMMARY:IBU WC Oberhof W 7.5km SP
-UID:493dc0f2-64bf-4189-916b-55441fa63836@493d.org
+DTSTART:20250119T140000Z
+SUMMARY:IBU WC Ruhpolding W 12.5km MS
+UID:938b40d5-b022-47d4-bd40-9b87975aae95@938b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nWomen 4.5km Super Sprint Qual. Heat 1\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SWH1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Open European Championships Biathlon\nBiathlon Center Martell\, Martell-Val Martello\, Italy\nWomen 10km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SCEUCH__SWPU
 DURATION:PT1H
-DTSTART:20240823T100000Z
-SUMMARY:IBU SWCH Otepaa W 4.5km SS Q H1
-UID:c3ad5b18-d96f-4c34-94e4-38bc0140de74@c3ad.org
+DTSTART:20250201T100000Z
+SUMMARY:IBU OECH Martell-Val Martello W 10km PU
+UID:57ed7999-b243-4667-ab8c-8e5c19446ded@57ed.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nMen 7.5km Super Sprint Final\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SMSF
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nVysocina Arena\, Nove Mesto na Morave\, Czechia\nMen 12.5km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP07SMPU
 DURATION:PT1H
-DTSTART:20240823T144500Z
-SUMMARY:IBU SWCH Otepaa M 7.5km SS F
-UID:5d1f6295-aa8b-4e03-844c-78d6acf57fc1@5d1f.org
+DTSTART:20250308T135500Z
+SUMMARY:IBU WC Nove Mesto na Morave M 12.5km PU
+UID:e27c39b5-f2df-42fd-bd0c-35a0406bd81d@e27c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nVysocina Arena\, Nove Mesto na Morave\, Czechia\nWomen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP07SWSP
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Hochfilzen\, Hochfilzen\, Austria\nWomen 4x6km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP02SWRL
 DURATION:PT1H
-DTSTART:20250307T172000Z
-SUMMARY:IBU WC Nove Mesto na Morave W 7.5km SP
-UID:99dc41a3-2747-4fe9-913a-f7bd775a5337@99dc.org
+DTSTART:20241215T103000Z
+SUMMARY:IBU WC Hochfilzen W 4x6km RL
+UID:572e0707-a6ba-45d0-a34c-ff9c7ad21ab1@572e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Hochfilzen\, Hochfilzen\, Austria\nMen 12.5km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP02SMPU
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Kontiolahti\, Kontiolahti\, Finland\nMen 4x7.5km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP01SMRL
 DURATION:PT1H
-DTSTART:20241214T134500Z
-SUMMARY:IBU WC Hochfilzen M 12.5km PU
-UID:422a4171-d42c-4b49-bef2-9b2a31431a09@422a.org
+DTSTART:20241201T124500Z
+SUMMARY:IBU WC Kontiolahti M 4x7.5km RL
+UID:7b219e52-966e-44c6-98ee-1c04f1797888@7b21.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nMen 15km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SMMS
-DURATION:PT1H
-DTSTART:20250223T150500Z
-SUMMARY:IBU WCH Lenzerheide M 15km MS
-UID:6eae408f-adce-4f79-9090-99c4e35f618e@6eae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nMen 4.5km Super Sprint Qual. Heat 1\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SMH1
-DURATION:PT1H
-DTSTART:20240823T071500Z
-SUMMARY:IBU SWCH Otepaa M 4.5km SS Q H1
-UID:075c4877-bc2c-4c32-af6a-743a1abdd73a@075c.org
-END:VEVENT
-BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
 DESCRIPTION:BMW IBU World Cup Biathlon\nLe Grand-Bornand Biathlon Arena\, Annecy-Le Grand Bornand\, France\nWomen 10km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP03SWPU
 DURATION:PT1H
 DTSTART:20241221T134500Z
 SUMMARY:IBU WC Annecy-Le Grand Bornand W 10km PU
-UID:44c7e8a1-db17-4417-870d-094515697699@44c7.org
+UID:c10da444-1038-4f3b-ad34-ac68ccd2a8e3@c10d.org
 END:VEVENT
 BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nHolmenkollen\, Oslo Holmenkollen\, Norway\nMen 15km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP09SMMS
+DURATION:PT1H
+DTSTART:20250323T121500Z
+SUMMARY:IBU WC Oslo Holmenkollen M 15km MS
+UID:eb7f9dac-083c-4ec2-bfba-b5501e829a3d@eb7f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nSports Centre Triglav\, Pokljuka\, Slovenia\nWomen 15km Individual\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP08SWIN
+DURATION:PT1H
+DTSTART:20250313T141500Z
+SUMMARY:IBU WC Pokljuka W 15km IN
+UID:2acee017-617d-44c3-b5a7-c202033ad60c@2ace.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Hochfilzen\, Hochfilzen\, Austria\nWomen 10km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP02SWPU
+DURATION:PT1H
+DTSTART:20241214T111500Z
+SUMMARY:IBU WC Hochfilzen W 10km PU
+UID:6ee7e394-e81e-4de4-a031-dae94b0d9095@6ee7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nHolmenkollen\, Oslo Holmenkollen\, Norway\nWomen 12.5km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP09SWMS
+DURATION:PT1H
+DTSTART:20250323T144500Z
+SUMMARY:IBU WC Oslo Holmenkollen W 12.5km MS
+UID:4e12dc3b-2a2d-4660-8e18-c51c77290293@4e12.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nVysocina Arena\, Nove Mesto na Morave\, Czechia\nMen 10km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP07SMSP
+DURATION:PT1H
+DTSTART:20250306T172000Z
+SUMMARY:IBU WC Nove Mesto na Morave M 10km SP
+UID:1f81b047-f9c6-4644-a978-ff1794f2b7b8@1f81.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Hochfilzen\, Hochfilzen\, Austria\nMen 4x7.5km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP02SMRL
+DURATION:PT1H
+DTSTART:20241215T131500Z
+SUMMARY:IBU WC Hochfilzen M 4x7.5km RL
+UID:6747195a-e70a-42f1-ae27-5d24070faf5e@6747.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nWomen Gala Mass Start\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SWMS
+DURATION:PT1H
+DTSTART:20240825T131500Z
+SUMMARY:IBU SWCH Otepaa W Gala MS
+UID:31676bea-eadc-454b-8483-c3c76f14b12a@3167.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nWomen 4.5km Super Sprint Qual. Heat 3\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SWH3
+DURATION:PT1H
+DTSTART:20240823T105000Z
+SUMMARY:IBU SWCH Otepaa W 4.5km SS Q H3
+UID:96606ced-82dc-4055-b485-23e468d2e91f@9660.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nSuedtirol Arena Alto Adige\, Antholz-Anterselva\, Italy\nWomen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP06SWSP
+DURATION:PT1H
+DTSTART:20250123T133000Z
+SUMMARY:IBU WC Antholz-Anterselva W 7.5km SP
+UID:0b322d9e-e5c7-4487-8092-14aa6a3ad088@0b32.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nWomen 12.5km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SWMS
+DURATION:PT1H
+DTSTART:20250223T124500Z
+SUMMARY:IBU WCH Lenzerheide W 12.5km MS
+UID:9ffe477a-ab28-4a46-b8e8-72b16c3bbe39@9ffe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nHolmenkollen\, Oslo Holmenkollen\, Norway\nMen 12.5km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP09SMPU
+DURATION:PT1H
+DTSTART:20250322T124500Z
+SUMMARY:IBU WC Oslo Holmenkollen M 12.5km PU
+UID:0c4e29a3-bc99-4f73-be4d-8c2bf310d578@0c4e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nMen 4.5km Super Sprint Qual. Heat 3\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SMH3
+DURATION:PT1H
+DTSTART:20240823T080500Z
+SUMMARY:IBU SWCH Otepaa M 4.5km SS Q H3
+UID:b577af56-3934-4bf6-850e-0236d0663f97@b577.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Hochfilzen\, Hochfilzen\, Austria\nMen 10km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP02SMSP
+DURATION:PT1H
+DTSTART:20241213T132000Z
+SUMMARY:IBU WC Hochfilzen M 10km SP
+UID:bce985f2-fde1-495c-a5be-1d2a32f43a14@bce9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nLe Grand-Bornand Biathlon Arena\, Annecy-Le Grand Bornand\, France\nMen 15km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP03SMMS
+DURATION:PT1H
+DTSTART:20241222T113000Z
+SUMMARY:IBU WC Annecy-Le Grand Bornand M 15km MS
+UID:2c815e73-3d4b-488c-949d-7cf8592928e7@2c81.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Open European Championships Biathlon\nBiathlon Center Martell\, Martell-Val Martello\, Italy\nWomen 15km Individual\nhttps://www.biathlonworld.com/startlist/BT2425SCEUCH__SWIN
+DURATION:PT1H
+DTSTART:20250129T093000Z
+SUMMARY:IBU OECH Martell-Val Martello W 15km IN
+UID:5592deb5-8a4b-4db1-839b-f2f3c795eb2f@5592.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Kontiolahti\, Kontiolahti\, Finland\nWomen 12.5km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP01SWMS
+DURATION:PT1H
+DTSTART:20241208T161000Z
+SUMMARY:IBU WC Kontiolahti W 12.5km MS
+UID:dfb5dcd5-ee3f-4b31-bc14-eab2674e3d5b@dfb5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Kontiolahti\, Kontiolahti\, Finland\nMen 15km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP01SMMS
+DURATION:PT1H
+DTSTART:20241208T133000Z
+SUMMARY:IBU WC Kontiolahti M 15km MS
+UID:1808c1fa-8723-4359-9d34-3e64f202a8b6@1808.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nMen 4.5km Super Sprint Qual. Heat 4\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SMH4
+DURATION:PT1H
+DTSTART:20240823T083000Z
+SUMMARY:IBU SWCH Otepaa M 4.5km SS Q H4
+UID:082c6f0c-738b-45b4-ab8d-3e2c1815b92b@082c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nVysocina Arena\, Nove Mesto na Morave\, Czechia\nMen 4x7.5km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP07SMRL
+DURATION:PT1H
+DTSTART:20250309T125000Z
+SUMMARY:IBU WC Nove Mesto na Morave M 4x7.5km RL
+UID:5cc8e0a8-7f4c-4398-8296-ae92cdf77262@5cc8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nSports Centre Triglav\, Pokljuka\, Slovenia\nWomen 12.5km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP08SWMS
+DURATION:PT1H
+DTSTART:20250316T123500Z
+SUMMARY:IBU WC Pokljuka W 12.5km MS
+UID:539fd0f1-e418-4402-812e-b3e91b38ea2c@539f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nARENA am Rennsteig\, Oberhof\, Germany\nWomen 10km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP04SWPU
+DURATION:PT1H
+DTSTART:20250111T113000Z
+SUMMARY:IBU WC Oberhof W 10km PU
+UID:fef037ff-8e4b-4c0e-a834-66616677aa19@fef0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nWomen 4.5km Super Sprint Qual. Heat 1\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SWH1
+DURATION:PT1H
+DTSTART:20240823T100000Z
+SUMMARY:IBU SWCH Otepaa W 4.5km SS Q H1
+UID:4b1e229d-9376-4135-a3a9-54e43c81316f@4b1e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Kontiolahti\, Kontiolahti\, Finland\nMen 10km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP01SMSP
+DURATION:PT1H
+DTSTART:20241206T152000Z
+SUMMARY:IBU WC Kontiolahti M 10km SP
+UID:0e62124a-9603-4793-b897-993ebdac9a08@0e62.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Open European Championships Biathlon\nBiathlon Center Martell\, Martell-Val Martello\, Italy\nMen 10km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SCEUCH__SMSP
+DURATION:PT1H
+DTSTART:20250131T131500Z
+SUMMARY:IBU OECH Martell-Val Martello M 10km SP
+UID:d957ef79-40b0-448f-b99d-622b7adfc1d4@d957.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nSuedtirol Arena Alto Adige\, Antholz-Anterselva\, Italy\nMen 12.5km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP06SMPU
+DURATION:PT1H
+DTSTART:20250126T134500Z
+SUMMARY:IBU WC Antholz-Anterselva M 12.5km PU
+UID:e34d87b6-ba80-4b8c-a671-9fed66d446bd@e34d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nMen 12.5km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SMPU
+DURATION:PT1H
+DTSTART:20250216T140500Z
+SUMMARY:IBU WCH Lenzerheide M 12.5km PU
+UID:933c0b33-2027-46b2-b8bf-129f7ebddc98@933c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nSports Centre Triglav\, Pokljuka\, Slovenia\nMen 20km Individual\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP08SMIN
+DURATION:PT1H
+DTSTART:20250314T141500Z
+SUMMARY:IBU WC Pokljuka M 20km IN
+UID:da58d690-8125-49bf-80f6-caa62ade8500@da58.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nHolmenkollen\, Oslo Holmenkollen\, Norway\nMen 10km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP09SMSP
+DURATION:PT1H
+DTSTART:20250321T123000Z
+SUMMARY:IBU WC Oslo Holmenkollen M 10km SP
+UID:b38a5ead-cc14-4364-8fdc-b94ece02c04e@b38a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nMen 4.5km Super Sprint Qual. Heat 2\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SMH2
+DURATION:PT1H
+DTSTART:20240823T074000Z
+SUMMARY:IBU SWCH Otepaa M 4.5km SS Q H2
+UID:1344021c-02fe-433b-a651-dca7f5e8baea@1344.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nChiemgau Arena\, Ruhpolding\, Germany\nWomen 4x6km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP05SWRL
+DURATION:PT1H
+DTSTART:20250118T132000Z
+SUMMARY:IBU WC Ruhpolding W 4x6km RL
+UID:c62ee9ed-5b1d-4bde-a472-acee896b9d68@c62e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nWomen 10km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SWPU
+DURATION:PT1H
+DTSTART:20250216T110500Z
+SUMMARY:IBU WCH Lenzerheide W 10km PU
+UID:4d9f597a-79dd-4e96-b4f0-80f4a3c8e1af@4d9f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Kontiolahti\, Kontiolahti\, Finland\nWomen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP01SWSP
+DURATION:PT1H
+DTSTART:20241207T161000Z
+SUMMARY:IBU WC Kontiolahti W 7.5km SP
+UID:d2af73bc-9e9c-4914-848a-0be58d8869e3@d2af.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nLe Grand-Bornand Biathlon Arena\, Annecy-Le Grand Bornand\, France\nWomen 12.5km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP03SWMS
+DURATION:PT1H
+DTSTART:20241222T134500Z
+SUMMARY:IBU WC Annecy-Le Grand Bornand W 12.5km MS
+UID:abcb1030-1e68-4dfa-ac52-b8c055e17bac@abcb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Open European Championships Biathlon\nBiathlon Center Martell\, Martell-Val Martello\, Italy\nMen 20km Individual\nhttps://www.biathlonworld.com/startlist/BT2425SCEUCH__SMIN
+DURATION:PT1H
+DTSTART:20250129T133000Z
+SUMMARY:IBU OECH Martell-Val Martello M 20km IN
+UID:c7c7099e-c62d-4dff-9c24-6f6ca2650a43@c7c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nVysocina Arena\, Nove Mesto na Morave\, Czechia\nWomen 4x6km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP07SWRL
+DURATION:PT1H
+DTSTART:20250309T154500Z
+SUMMARY:IBU WC Nove Mesto na Morave W 4x6km RL
+UID:d0891ec5-7afc-43b2-87cf-0c9e3ff8a968@d089.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nWomen 4x6km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SWRL
+DURATION:PT1H
+DTSTART:20250222T110500Z
+SUMMARY:IBU WCH Lenzerheide W 4x6km RL
+UID:5fafa75a-3a74-49a5-9239-c893fcb11953@5faf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nVysocina Arena\, Nove Mesto na Morave\, Czechia\nWomen 10km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP07SWPU
+DURATION:PT1H
+DTSTART:20250308T164000Z
+SUMMARY:IBU WC Nove Mesto na Morave W 10km PU
+UID:44fea449-86b5-4c2f-a83c-4e6dc7b2c79a@44fe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nChiemgau Arena\, Ruhpolding\, Germany\nMen 15km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP05SMMS
+DURATION:PT1H
+DTSTART:20250119T113000Z
+SUMMARY:IBU WC Ruhpolding M 15km MS
+UID:f54c9e9f-fd30-4533-b88f-b8dc01e7d888@f54c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nARENA am Rennsteig\, Oberhof\, Germany\nMen 10km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP04SMSP
+DURATION:PT1H
+DTSTART:20250110T132000Z
+SUMMARY:IBU WC Oberhof M 10km SP
+UID:82074083-2cee-4fec-b3a3-70a3749503a3@8207.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nWomen 4.5km Super Sprint Qual. Heat 2\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SWH2
+DURATION:PT1H
+DTSTART:20240823T102500Z
+SUMMARY:IBU SWCH Otepaa W 4.5km SS Q H2
+UID:891e2116-1bc7-40c9-8839-48aa92184c9d@891e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Open European Championships Biathlon\nBiathlon Center Martell\, Martell-Val Martello\, Italy\nMen 12.5km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SCEUCH__SMPU
+DURATION:PT1H
+DTSTART:20250201T124500Z
+SUMMARY:IBU OECH Martell-Val Martello M 12.5km PU
+UID:cd542037-1a27-4be4-b788-ed2b9f62eb9d@cd54.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nMen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SMSP
+DURATION:PT1H
+DTSTART:20240824T114500Z
+SUMMARY:IBU SWCH Otepaa M 7.5km SP
+UID:af8bdc4f-aac3-47a6-95e1-488a6494c883@af8b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Kontiolahti\, Kontiolahti\, Finland\nWomen 4x6km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP01SWRL
+DURATION:PT1H
+DTSTART:20241201T162500Z
+SUMMARY:IBU WC Kontiolahti W 4x6km RL
+UID:5a5777f1-a113-4abb-a4bf-9d1eebd46118@5a57.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Open European Championships Biathlon\nBiathlon Center Martell\, Martell-Val Martello\, Italy\nMen 4x7.5km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SCEUCH__SMRL
+DURATION:PT1H
+DTSTART:20250202T124500Z
+SUMMARY:IBU OECH Martell-Val Martello M 4x7.5km RL
+UID:5fd8d045-c26c-4a59-a718-68e430b0cb4a@5fd8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nHolmenkollen\, Oslo Holmenkollen\, Norway\nWomen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP09SWSP
+DURATION:PT1H
+DTSTART:20250321T151500Z
+SUMMARY:IBU WC Oslo Holmenkollen W 7.5km SP
+UID:fd97ffa7-0c04-4a69-a887-57376f4386a2@fd97.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nSports Centre Triglav\, Pokljuka\, Slovenia\nMen 15km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP08SMMS
+DURATION:PT1H
+DTSTART:20250316T144500Z
+SUMMARY:IBU WC Pokljuka M 15km MS
+UID:1a17b3c6-8632-4bca-b795-47c5b174ca2f@1a17.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Kontiolahti\, Kontiolahti\, Finland\nWomen 12.5km Short Individual\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP01SWSI
+DURATION:PT1H
+DTSTART:20241204T152000Z
+SUMMARY:IBU WC Kontiolahti W 12.5km Short IN
+UID:aefc7952-6784-40eb-81c4-25cded67e2df@aefc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
 DESCRIPTION:BMW IBU World Cup Biathlon\nSuedtirol Arena Alto Adige\, Antholz-Anterselva\, Italy\nWomen 4x6km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP06SWRL
 DURATION:PT1H
 DTSTART:20250126T110500Z
 SUMMARY:IBU WC Antholz-Anterselva W 4x6km RL
-UID:a98e986f-756f-4d07-b61d-650fd6da2565@a98e.org
+UID:f257bb38-89f2-4cee-a9f1-e30019786c0b@f257.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Hochfilzen\, Hochfilzen\, Austria\nMen 12.5km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP02SMPU
+DURATION:PT1H
+DTSTART:20241214T134500Z
+SUMMARY:IBU WC Hochfilzen M 12.5km PU
+UID:34c31e35-73a6-4454-b29d-2bd1645315a2@34c3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nMen 10km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SMSP
+DURATION:PT1H
+DTSTART:20250215T140500Z
+SUMMARY:IBU WCH Lenzerheide M 10km SP
+UID:008eb7db-237e-47ed-9795-1d752a907459@008e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nMen 4x7.5km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SMRL
+DURATION:PT1H
+DTSTART:20250222T140500Z
+SUMMARY:IBU WCH Lenzerheide M 4x7.5km RL
+UID:5eb9487f-057d-4712-a403-fe6a875d7c94@5eb9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nLe Grand-Bornand Biathlon Arena\, Annecy-Le Grand Bornand\, France\nWomen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP03SWSP
+DURATION:PT1H
+DTSTART:20241220T132000Z
+SUMMARY:IBU WC Annecy-Le Grand Bornand W 7.5km SP
+UID:b9279373-41d0-49e4-839a-8c2377a7d771@b927.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nMen 20km Individual\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SMIN
+DURATION:PT1H
+DTSTART:20250219T140500Z
+SUMMARY:IBU WCH Lenzerheide M 20km IN
+UID:6b972d16-9ae2-4422-bc0f-f9f3cb79c121@6b97.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nChiemgau Arena\, Ruhpolding\, Germany\nMen 20km Individual\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP05SMIN
+DURATION:PT1H
+DTSTART:20250115T131000Z
+SUMMARY:IBU WC Ruhpolding M 20km IN
+UID:6c4374c6-84d9-4399-af56-8a8f6966ef1d@6c43.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nHolmenkollen\, Oslo Holmenkollen\, Norway\nWomen 10km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP09SWPU
+DURATION:PT1H
+DTSTART:20250322T145000Z
+SUMMARY:IBU WC Oslo Holmenkollen W 10km PU
+UID:92c045de-497a-4843-8e82-9441fb849b21@92c0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nMen 4.5km Super Sprint Qual. Heat 1\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SMH1
+DURATION:PT1H
+DTSTART:20240823T071500Z
+SUMMARY:IBU SWCH Otepaa M 4.5km SS Q H1
+UID:32a2f5ea-6652-41ab-b1d2-d6bc0605d395@32a2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nSuedtirol Arena Alto Adige\, Antholz-Anterselva\, Italy\nMen 4x7.5km Relay\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP06SMRL
+DURATION:PT1H
+DTSTART:20250125T135500Z
+SUMMARY:IBU WC Antholz-Anterselva M 4x7.5km RL
+UID:a39e5819-1c40-4642-a05a-0ed75562eade@a39e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nWomen 4.5km Super Sprint Qual. Heat 4\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SWH4
+DURATION:PT1H
+DTSTART:20240823T111500Z
+SUMMARY:IBU SWCH Otepaa W 4.5km SS Q H4
+UID:5ab577f6-1fa4-4b36-aa3b-28ea0336fcc1@5ab5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Kontiolahti\, Kontiolahti\, Finland\nMen 15km Short Individual\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP01SMSI
+DURATION:PT1H
+DTSTART:20241203T152000Z
+SUMMARY:IBU WC Kontiolahti M 15km Short IN
+UID:eba9fbc6-e3db-4718-98a8-7db5a8048699@eba9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nARENA am Rennsteig\, Oberhof\, Germany\nMen 12.5km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP04SMPU
+DURATION:PT1H
+DTSTART:20250111T134500Z
+SUMMARY:IBU WC Oberhof M 12.5km PU
+UID:3bd6601e-f54d-401e-910a-0aff68589122@3bd6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nARENA am Rennsteig\, Oberhof\, Germany\nWomen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP04SWSP
+DURATION:PT1H
+DTSTART:20250109T132000Z
+SUMMARY:IBU WC Oberhof W 7.5km SP
+UID:336de138-5014-44a5-bdeb-d38a7d78a96b@336d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nWomen 6km Sprint\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SWSP
+DURATION:PT1H
+DTSTART:20240824T140000Z
+SUMMARY:IBU SWCH Otepaa W 6km SP
+UID:b7270522-5bbc-4d22-ab9c-78407404cee0@b727.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nWomen 7.5km Super Sprint Final\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SWSF
+DURATION:PT1H
+DTSTART:20240823T160000Z
+SUMMARY:IBU SWCH Otepaa W 7.5km SS F
+UID:cf2ca964-45db-41e2-9a03-e996568c281d@cf2c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nSuedtirol Arena Alto Adige\, Antholz-Anterselva\, Italy\nWomen 10km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP06SWPU
+DURATION:PT1H
+DTSTART:20250125T120000Z
+SUMMARY:IBU WC Antholz-Anterselva W 10km PU
+UID:ecc1071a-20b7-4068-9a1b-d01bc6d20766@ecc1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nMen 15km Mass Start\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SMMS
+DURATION:PT1H
+DTSTART:20250223T150500Z
+SUMMARY:IBU WCH Lenzerheide M 15km MS
+UID:754c3785-afd5-495a-a855-def95ed92b63@754c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nVysocina Arena\, Nove Mesto na Morave\, Czechia\nWomen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP07SWSP
+DURATION:PT1H
+DTSTART:20250307T172000Z
+SUMMARY:IBU WC Nove Mesto na Morave W 7.5km SP
+UID:3798e980-96c8-4944-8c47-2024a0625bb5@3798.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Open European Championships Biathlon\nBiathlon Center Martell\, Martell-Val Martello\, Italy\nWomen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SCEUCH__SWSP
+DURATION:PT1H
+DTSTART:20250131T094500Z
+SUMMARY:IBU OECH Martell-Val Martello W 7.5km SP
+UID:acdfe277-2ccc-4ea4-bd11-ac80ff56bbb2@acdf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nWomen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SWSP
+DURATION:PT1H
+DTSTART:20250214T140500Z
+SUMMARY:IBU WCH Lenzerheide W 7.5km SP
+UID:82cc76e9-739b-4a4f-b9c6-6d02a535ec9c@82cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nChiemgau Arena\, Ruhpolding\, Germany\nWomen 15km Individual\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP05SWIN
+DURATION:PT1H
+DTSTART:20250116T131000Z
+SUMMARY:IBU WC Ruhpolding W 15km IN
+UID:4e08a732-cde8-4dda-9998-c02db0352cdd@4e08.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nSuedtirol Arena Alto Adige\, Antholz-Anterselva\, Italy\nMen 10km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP06SMSP
+DURATION:PT1H
+DTSTART:20250124T133000Z
+SUMMARY:IBU WC Antholz-Anterselva M 10km SP
+UID:c9d7a9ba-4957-4d5e-a68d-1c3ba4ff3ec9@c9d7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nLe Grand-Bornand Biathlon Arena\, Annecy-Le Grand Bornand\, France\nMen 12.5km Pursuit\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP03SMPU
+DURATION:PT1H
+DTSTART:20241221T113000Z
+SUMMARY:IBU WC Annecy-Le Grand Bornand M 12.5km PU
+UID:8a403edf-4bcd-4312-9c99-ffd9ecbd5d8c@8a40.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU World Championships Biathlon\nRoland Arena\, Lenzerheide\, Switzerland\nWomen 15km Individual\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCH__SWIN
+DURATION:PT1H
+DTSTART:20250218T140500Z
+SUMMARY:IBU WCH Lenzerheide W 15km IN
+UID:08c198db-2f74-4e96-a9ba-a04b43fe2523@08c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:IBU Summer Biathlon World Championships\nTehvandi Sport Center\, Otepaa\, Estonia\nMen 7.5km Super Sprint Final\nhttps://www.biathlonworld.com/startlist/SB2425SWRLCH__SMSF
+DURATION:PT1H
+DTSTART:20240823T144500Z
+SUMMARY:IBU SWCH Otepaa M 7.5km SS F
+UID:6a8624a8-bede-41f5-826c-5c589b41667c@6a86.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:BMW IBU World Cup Biathlon\nBiathlon Stadium Hochfilzen\, Hochfilzen\, Austria\nWomen 7.5km Sprint\nhttps://www.biathlonworld.com/startlist/BT2425SWRLCP02SWSP
+DURATION:PT1H
+DTSTART:20241213T103000Z
+SUMMARY:IBU WC Hochfilzen W 7.5km SP
+UID:f1da0ac4-6500-4a50-9f17-65eecec8cdef@f1da.org
 END:VEVENT
 END:VCALENDAR

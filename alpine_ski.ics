@@ -2,836 +2,2026 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Alta Badia\, ITA\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122790
-DURATION:PT1H
-DTSTART:20241223T123000Z
-SUMMARY:FIS Ski WC Alta Badia SL M 2nd Run
-UID:553ea974-ba49-4b98-add1-338084a7232b@553e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kranjska Gora\, SLO\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122795
-DURATION:PT1H
-DTSTART:20250104T114500Z
-SUMMARY:FIS Ski WC Kranjska Gora GS W 2nd Run
-UID:368dee7e-674b-4959-81a8-0e3e75d7bfef@368d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kranjska Gora\, SLO\nSlalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122796
-DURATION:PT1H
-DTSTART:20250105T090000Z
-SUMMARY:FIS Ski WC Kranjska Gora SL W 1st Run
-UID:5dcc6646-4293-4d3c-beae-ee8009e9d2ce@5dcc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Bormio\, ITA\nDownhill Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122793
-DURATION:PT1H
-DTSTART:20241228T103000Z
-SUMMARY:FIS Ski WC Bormio DH M 
-UID:d1029b75-0809-4ca8-b1d6-a771e659f9fc@d102.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Wengen\, SUI\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122809
-DURATION:PT1H
-DTSTART:20250119T091500Z
-SUMMARY:FIS Ski WC Wengen SL M 1st Run
-UID:781d6428-7501-48f3-be4f-f2e182e918c4@781d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kranjska Gora\, SLO\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122843
-DURATION:PT1H
-DTSTART:20250302T113000Z
-SUMMARY:FIS Ski WC Kranjska Gora SL M 2nd Run
-UID:60cffc7d-4430-4205-a3d5-f8f4fedb2db1@60cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Sestriere\, ITA\nSlalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122836
-DURATION:PT1H
-DTSTART:20250223T111500Z
-SUMMARY:FIS Ski WC Sestriere SL W 2nd Run
-UID:a99f4bca-6dc3-40c0-9a37-8b1e12322813@a99f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Soelden\, AUT\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122760
-DURATION:PT1H
-DTSTART:20241026T110000Z
-SUMMARY:FIS Ski WC Soelden GS W 2nd Run
-UID:c0a9aef0-f1c4-401f-bbc4-3f7a632683dd@c0a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nDownhill Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123167
-DURATION:PT1H
-DTSTART:20250322T170000Z
-SUMMARY:FIS Ski WC Sun Valley DH M 
-UID:c222c248-6ff6-4495-aae3-39e1c5809d3b@c222.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kvitfjell\, NOR\nSuper G Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122841
-DURATION:PT1H
-DTSTART:20250302T093000Z
-SUMMARY:FIS Ski WC Kvitfjell SG W 
-UID:8ef57e89-a092-4095-9014-a3b929fdfad0@8ef5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123170
-DURATION:PT1H
-DTSTART:20250325T180000Z
-SUMMARY:FIS Ski WC Sun Valley GS W 2nd Run
-UID:9d6f4baf-d6ee-4646-bcec-858e69265507@9d6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Cortina d'Ampezzo\, ITA\nDownhill Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122813
-DURATION:PT1H
-DTSTART:20250118T100000Z
-SUMMARY:FIS Ski WC Cortina d'Ampezzo DH W 
-UID:09ff3ef2-616a-4c04-a9da-dcf8c10d58dc@09ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kitzbuehel\, AUT\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122821
-DURATION:PT1H
-DTSTART:20250126T091500Z
-SUMMARY:FIS Ski WC Kitzbuehel SL M 1st Run
-UID:e2bef0d0-69e8-497e-b920-5bfdc8d90587@e2be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Are\, SWE\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122848
-DURATION:PT1H
-DTSTART:20250308T083000Z
-SUMMARY:FIS Ski WC Are GS W 1st Run
-UID:e943c8cc-d24f-44ec-ba7c-00dd666d7ccb@e943.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Semmering\, AUT\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123079
-DURATION:PT1H
-DTSTART:20241228T120000Z
-SUMMARY:FIS Ski WC Semmering GS W 2nd Run
-UID:e4249742-4e6c-49b0-94d2-f3cd0fc2ed1c@e424.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Madonna di Campiglio\, ITA\nSlalom Men 1st Run\nNight event\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122797
-DURATION:PT1H
-DTSTART:20250108T164500Z
-SUMMARY:FIS Ski WC Madonna di Campiglio SL M 1st Run
-UID:689af829-5614-4f31-989b-6583a31740b9@689a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Beaver Creek\, USA\nGiant Slalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122773
-DURATION:PT1H
-DTSTART:20241208T200000Z
-SUMMARY:FIS Ski WC Beaver Creek GS M 2nd Run
-UID:e057d769-0ff0-450a-9731-fb1a0c5a262f@e057.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Sestriere\, ITA\nSlalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122836
-DURATION:PT1H
-DTSTART:20250223T083000Z
-SUMMARY:FIS Ski WC Sestriere SL W 1st Run
-UID:4e6f4bd7-21dd-479a-bbf6-450d2538a4ac@4e6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Alta Badia\, ITA\nGiant Slalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122789
-DURATION:PT1H
-DTSTART:20241222T123000Z
-SUMMARY:FIS Ski WC Alta Badia GS M 2nd Run
-UID:ecd0d474-7d73-4e75-86e8-7cce6c566b92@ecd0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Flachau\, AUT\nSlalom Women 2nd Run\nNight event\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122810
-DURATION:PT1H
-DTSTART:20250114T194500Z
-SUMMARY:FIS Ski WC Flachau SL W 2nd Run
-UID:f17d7444-d825-4716-8f09-ffacb021bf6d@f17d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Beaver Creek\, USA\nGiant Slalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122773
-DURATION:PT1H
-DTSTART:20241208T170000Z
-SUMMARY:FIS Ski WC Beaver Creek GS M 1st Run
-UID:b046a660-6057-4264-b94b-275d4dc05122@b046.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Gurgl\, AUT\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122765
-DURATION:PT1H
-DTSTART:20241124T123000Z
-SUMMARY:FIS Ski WC Gurgl SL M 2nd Run
-UID:e278c3e0-3a36-4827-a60f-025ac73a4f8f@e278.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Killington\, USA\nSlalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122767
-DURATION:PT1H
-DTSTART:20241201T170000Z
-SUMMARY:FIS Ski WC Killington SL W 1st Run
-UID:e90d007d-1dce-4713-a621-29ddb172247f@e90d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Levi\, FIN\nSlalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122762
-DURATION:PT1H
-DTSTART:20241116T120000Z
-SUMMARY:FIS Ski WC Levi SL W 2nd Run
-UID:024ceae7-6a52-4bc8-9777-7d3faa808879@024c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Levi\, FIN\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122763
-DURATION:PT1H
-DTSTART:20241117T090000Z
-SUMMARY:FIS Ski WC Levi SL M 1st Run
-UID:fe22f2e5-2440-4757-9212-2ecebac13fda@fe22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Val Gardena / Groeden\, ITA\nDownhill Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122788
-DURATION:PT1H
-DTSTART:20241221T104500Z
-SUMMARY:FIS Ski WC Val Gardena / Groeden DH M 
-UID:f5c1c1e3-d20f-47d5-b84e-c95b3e1e0555@f5c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kitzbuehel\, AUT\nDownhill Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122820
-DURATION:PT1H
-DTSTART:20250125T103000Z
-SUMMARY:FIS Ski WC Kitzbuehel DH M 
-UID:c184044a-6109-4db8-bf06-4626ddfe6d64@c184.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup St. Moritz\, SUI\nSuper G Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122784
-DURATION:PT1H
-DTSTART:20241222T100000Z
-SUMMARY:FIS Ski WC St. Moritz SG W 
-UID:de106248-25bb-4018-a6bb-4a7197e96f0e@de10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kvitfjell\, NOR\nDownhill Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122840
-DURATION:PT1H
-DTSTART:20250301T093000Z
-SUMMARY:FIS Ski WC Kvitfjell DH W 
-UID:4e40f1ed-fd39-4606-bde8-1cbee492dc30@4e40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Schladming\, AUT\nGiant Slalom Men 2nd Run\nNight event\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122826
-DURATION:PT1H
-DTSTART:20250128T194500Z
-SUMMARY:FIS Ski WC Schladming GS M 2nd Run
-UID:77dd6fcc-474c-4937-b8b5-d566e3e6637e@77dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Levi\, FIN\nSlalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122762
-DURATION:PT1H
-DTSTART:20241116T090000Z
-SUMMARY:FIS Ski WC Levi SL W 1st Run
-UID:b95f7c7f-95de-4705-8a0a-8783816b0366@b95f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Crans Montana\, SUI\nDownhill Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122833
-DURATION:PT1H
-DTSTART:20250222T090000Z
-SUMMARY:FIS Ski WC Crans Montana DH M 
-UID:391bdd01-4a36-4615-aef9-6022245a2171@391b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Adelboden\, SUI\nGiant Slalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122802
-DURATION:PT1H
-DTSTART:20250111T123000Z
-SUMMARY:FIS Ski WC Adelboden GS M 2nd Run
-UID:4c7cb568-9d3b-4cce-b3de-01b9ace4299b@4c7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Val d'Isere\, FRA\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122782
-DURATION:PT1H
-DTSTART:20241215T090000Z
-SUMMARY:FIS Ski WC Val d'Isere SL M 1st Run
-UID:5c102d9f-2e17-41b7-8cb6-7e00429c8ef5@5c10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Val Gardena / Groeden\, ITA\nSuper G Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122787
-DURATION:PT1H
-DTSTART:20241220T104500Z
-SUMMARY:FIS Ski WC Val Gardena / Groeden SG M 
-UID:6b2f6cd8-a3c7-432a-ab58-17a5bd0f90d6@6b2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Alta Badia\, ITA\nGiant Slalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122789
-DURATION:PT1H
-DTSTART:20241222T090000Z
-SUMMARY:FIS Ski WC Alta Badia GS M 1st Run
-UID:6deddd76-c839-4a45-ac57-f040e5226171@6ded.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kitzbuehel\, AUT\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122821
-DURATION:PT1H
-DTSTART:20250126T123000Z
-SUMMARY:FIS Ski WC Kitzbuehel SL M 2nd Run
-UID:9725e671-a556-48b8-9e8d-e661f5e4dc43@9725.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Crans Montana\, SUI\nSuper G Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122834
-DURATION:PT1H
-DTSTART:20250223T093000Z
-SUMMARY:FIS Ski WC Crans Montana SG M 
-UID:a3f51dd5-8c9f-419f-a588-8d2e09512e22@a3f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Val d'Isere\, FRA\nGiant Slalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122781
-DURATION:PT1H
-DTSTART:20241214T120000Z
-SUMMARY:FIS Ski WC Val d'Isere GS M 2nd Run
-UID:ca641f36-a345-4afe-a7c0-c267c0502d7d@ca64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Garmisch-Partenkirchen\, GER\nDownhill Training Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122822
-DURATION:PT1H
-DTSTART:20250122T230000Z
-SUMMARY:FIS Ski WC Garmisch-Partenkirchen DH TR W 
-UID:8359be72-9586-4fc0-8829-7e2332831f02@8359.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kronplatz\, ITA\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122815
-DURATION:PT1H
-DTSTART:20250121T123000Z
-SUMMARY:FIS Ski WC Kronplatz GS W 2nd Run
-UID:af8215d9-7fec-4272-a457-09ccf45580d2@af82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Are\, SWE\nSlalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122849
-DURATION:PT1H
-DTSTART:20250309T113000Z
-SUMMARY:FIS Ski WC Are SL W 2nd Run
-UID:3d7a4fee-7f20-46a7-802f-acc931f49113@3d7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Tremblant\, CAN\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122774
-DURATION:PT1H
-DTSTART:20241207T190000Z
-SUMMARY:FIS Ski WC Tremblant GS W 2nd Run
-UID:d9f70c18-58c3-4cac-a923-bfa72a1f265f@d9f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Hafjell\, NOR\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122851
-DURATION:PT1H
-DTSTART:20250316T113000Z
-SUMMARY:FIS Ski WC Hafjell SL M 2nd Run
-UID:8441f430-ea91-4a03-8565-242844412b29@8441.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Flachau\, AUT\nSlalom Women 1st Run\nNight event\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122810
-DURATION:PT1H
-DTSTART:20250114T164500Z
-SUMMARY:FIS Ski WC Flachau SL W 1st Run
-UID:9837736f-f444-42b7-a9e3-1ca23fe905cf@9837.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup La Thuile\, ITA\nSuper G Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123085
-DURATION:PT1H
-DTSTART:20250315T100000Z
-SUMMARY:FIS Ski WC La Thuile SG W 
-UID:00d21710-95d3-483d-b306-d4e7cf951ce7@00d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Adelboden\, SUI\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122803
-DURATION:PT1H
-DTSTART:20250112T093000Z
-SUMMARY:FIS Ski WC Adelboden SL M 1st Run
-UID:80da4e25-50da-4fe9-8b88-88bcd3f7a0e1@80da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Garmisch-Partenkirchen\, GER\nDownhill Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122830
-DURATION:PT1H
-DTSTART:20250202T103000Z
-SUMMARY:FIS Ski WC Garmisch-Partenkirchen DH M 
-UID:0a1272b9-4b69-4955-82aa-000b1d1e88d1@0a12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Semmering\, AUT\nSlalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123080
-DURATION:PT1H
-DTSTART:20241229T093000Z
-SUMMARY:FIS Ski WC Semmering SL W 1st Run
-UID:25647c70-47cb-4d12-a611-819e13e886de@2564.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nGiant Slalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123171
-DURATION:PT1H
-DTSTART:20250326T180000Z
-SUMMARY:FIS Ski WC Sun Valley GS M 2nd Run
-UID:5cdcc9dd-eeb1-4401-9430-5360be1611dd@5cdc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Courchevel\, FRA\nSlalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123081
-DURATION:PT1H
-DTSTART:20250130T190000Z
-SUMMARY:FIS Ski WC Courchevel SL W 2nd Run
-UID:af26d16d-5ef4-43e5-8bca-cae7ea757ac0@af26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Are\, SWE\nSlalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122849
-DURATION:PT1H
-DTSTART:20250309T083000Z
-SUMMARY:FIS Ski WC Are SL W 1st Run
-UID:a7ad4db1-00b7-4773-8abf-bf672b11cea9@a7ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Gurgl\, AUT\nSlalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122764
-DURATION:PT1H
-DTSTART:20241123T093000Z
-SUMMARY:FIS Ski WC Gurgl SL W 1st Run
-UID:e88d4662-8ad1-4a81-9ef3-10a752487250@e88d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Val d'Isere\, FRA\nGiant Slalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122781
-DURATION:PT1H
-DTSTART:20241214T083000Z
-SUMMARY:FIS Ski WC Val d'Isere GS M 1st Run
-UID:194320e4-5aa0-4ee4-9dd4-4815208756cd@1943.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Beaver Creek\, USA\nDownhill Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122779
-DURATION:PT1H
-DTSTART:20241214T180000Z
-SUMMARY:FIS Ski WC Beaver Creek DH W 
-UID:03ca8951-552d-4470-ba8a-4dc96f6f1d3a@03ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kranjska Gora\, SLO\nSlalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122796
-DURATION:PT1H
-DTSTART:20250105T120000Z
-SUMMARY:FIS Ski WC Kranjska Gora SL W 2nd Run
-UID:c29bee54-419f-45fe-90fa-62fe91782f1c@c29b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Hafjell\, NOR\nGiant Slalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122850
-DURATION:PT1H
-DTSTART:20250315T113000Z
-SUMMARY:FIS Ski WC Hafjell GS M 2nd Run
-UID:11196321-e5de-4745-a0aa-660b6175d264@1119.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nSuper G Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123168
-DURATION:PT1H
-DTSTART:20250323T170000Z
-SUMMARY:FIS Ski WC Sun Valley SG W 
-UID:57eb08f0-a599-43ca-b801-199d551fdda5@57eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup La Thuile\, ITA\nDownhill Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123084
-DURATION:PT1H
-DTSTART:20250314T100000Z
-SUMMARY:FIS Ski WC La Thuile DH W 
-UID:ab30b0ba-b6a5-48c9-bdaf-f65f8fc2ac34@ab30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nSuper G Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123169
-DURATION:PT1H
-DTSTART:20250323T183000Z
-SUMMARY:FIS Ski WC Sun Valley SG M 
-UID:5d096fc9-6e87-4dae-9589-b385c5101b34@5d09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kranjska Gora\, SLO\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122843
-DURATION:PT1H
-DTSTART:20250302T083000Z
-SUMMARY:FIS Ski WC Kranjska Gora SL M 1st Run
-UID:e730ff59-0583-470a-949e-29fae30a933f@e730.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Madonna di Campiglio\, ITA\nSlalom Men 2nd Run\nNight event\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122797
-DURATION:PT1H
-DTSTART:20250108T194500Z
-SUMMARY:FIS Ski WC Madonna di Campiglio SL M 2nd Run
-UID:12da3c14-bb4a-4d22-86a8-85296f8870d4@12da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup St. Moritz\, SUI\nSuper G Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122783
-DURATION:PT1H
-DTSTART:20241221T093000Z
-SUMMARY:FIS Ski WC St. Moritz SG W 
-UID:4103666e-6633-4ba0-83d0-fb2d752470bb@4103.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Beaver Creek\, USA\nSuper G Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122780
-DURATION:PT1H
-DTSTART:20241215T180000Z
-SUMMARY:FIS Ski WC Beaver Creek SG W 
-UID:4658bc12-b5bf-49c0-90ae-5fe648fc3cc3@4658.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Cortina d'Ampezzo\, ITA\nSuper G Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122814
-DURATION:PT1H
-DTSTART:20250119T100000Z
-SUMMARY:FIS Ski WC Cortina d'Ampezzo SG W 
-UID:442a354f-aabd-4416-ad5b-d18bbecb488f@442a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Gurgl\, AUT\nSlalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122764
-DURATION:PT1H
-DTSTART:20241123T123000Z
-SUMMARY:FIS Ski WC Gurgl SL W 2nd Run
-UID:e29c3484-4acd-4665-978f-94c0cacb7c85@e29c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123170
-DURATION:PT1H
-DTSTART:20250325T153000Z
-SUMMARY:FIS Ski WC Sun Valley GS W 1st Run
-UID:1a448052-c02b-40ce-94ed-54a3a9ea46dd@1a44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Soelden\, AUT\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122760
-DURATION:PT1H
-DTSTART:20241026T080000Z
-SUMMARY:FIS Ski WC Soelden GS W 1st Run
-UID:894cadce-f05d-43b7-b76e-7926ed48d310@894c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kvitfjell\, NOR\nDownhill Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122839
-DURATION:PT1H
-DTSTART:20250228T093000Z
-SUMMARY:FIS Ski WC Kvitfjell DH W 
-UID:7426306a-e493-4ffe-840e-41cdfbb3e476@7426.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Schladming\, AUT\nGiant Slalom Men 1st Run\nNight event\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122826
-DURATION:PT1H
-DTSTART:20250128T164500Z
-SUMMARY:FIS Ski WC Schladming GS M 1st Run
-UID:14963423-0c19-4903-9fcb-858772d02178@1496.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Semmering\, AUT\nSlalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123080
-DURATION:PT1H
-DTSTART:20241229T123000Z
-SUMMARY:FIS Ski WC Semmering SL W 2nd Run
-UID:d0de7598-c514-41cc-ae82-fe1158aa896a@d0de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Wengen\, SUI\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122809
-DURATION:PT1H
-DTSTART:20250119T121500Z
-SUMMARY:FIS Ski WC Wengen SL M 2nd Run
-UID:e4cfa0a5-fb0a-493b-b147-e651677a0dcd@e4cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Garmisch-Partenkirchen\, GER\nSuper G Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122825
-DURATION:PT1H
-DTSTART:20250126T100000Z
-SUMMARY:FIS Ski WC Garmisch-Partenkirchen SG W 
-UID:7c29a88a-6dc3-4ba7-8a76-2e44740dae19@7c29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Sestriere\, ITA\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122835
-DURATION:PT1H
-DTSTART:20250222T100000Z
-SUMMARY:FIS Ski WC Sestriere GS W 1st Run
-UID:d88f74a4-f777-43d2-a554-16e17b5afa56@d88f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kvitfjell\, NOR\nSuper G Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122847
-DURATION:PT1H
-DTSTART:20250309T093000Z
-SUMMARY:FIS Ski WC Kvitfjell SG M 
-UID:532446b2-0cf6-4153-a9f9-844ddb02a35a@5324.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123173
-DURATION:PT1H
-DTSTART:20250327T150000Z
-SUMMARY:FIS Ski WC Sun Valley SL M 1st Run
-UID:c67cfc72-df3f-4cbf-bc09-f4ef2c35067f@c67c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kranjska Gora\, SLO\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122795
-DURATION:PT1H
-DTSTART:20250104T083000Z
-SUMMARY:FIS Ski WC Kranjska Gora GS W 1st Run
-UID:30207ba4-911d-44b3-a436-d408f6568abe@3020.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Semmering\, AUT\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123079
-DURATION:PT1H
-DTSTART:20241228T090000Z
-SUMMARY:FIS Ski WC Semmering GS W 1st Run
-UID:409421e8-25ca-43f6-9cfe-cd90ef9b130f@4094.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Killington\, USA\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122766
-DURATION:PT1H
-DTSTART:20241130T170000Z
-SUMMARY:FIS Ski WC Killington GS W 1st Run
-UID:cbc636e1-d8e6-415b-b126-d7846c3332db@cbc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Adelboden\, SUI\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122803
-DURATION:PT1H
-DTSTART:20250112T123000Z
-SUMMARY:FIS Ski WC Adelboden SL M 2nd Run
-UID:fd223522-4c74-4206-beed-1913ef229903@fd22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kranjska Gora\, SLO\nGiant Slalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122842
-DURATION:PT1H
-DTSTART:20250301T113000Z
-SUMMARY:FIS Ski WC Kranjska Gora GS M 2nd Run
-UID:4c2ad2a8-fc81-4de7-aacb-a17827115879@4c2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nSlalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123172
-DURATION:PT1H
-DTSTART:20250327T160000Z
-SUMMARY:FIS Ski WC Sun Valley SL W 1st Run
-UID:213a1ac9-4d63-4abb-8cea-2c832f15cfa6@213a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Tremblant\, CAN\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122774
-DURATION:PT1H
-DTSTART:20241207T160000Z
-SUMMARY:FIS Ski WC Tremblant GS W 1st Run
-UID:fd766d71-d374-4ce9-9266-091709859016@fd76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Garmisch-Partenkirchen\, GER\nDownhill Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122824
-DURATION:PT1H
-DTSTART:20250125T091500Z
-SUMMARY:FIS Ski WC Garmisch-Partenkirchen DH W 
-UID:971eaa20-f1e6-43bb-8a5d-8ea4d39321be@971e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup St. Anton\, AUT\nDownhill Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122800
-DURATION:PT1H
-DTSTART:20250111T101500Z
-SUMMARY:FIS Ski WC St. Anton DH W 
-UID:3e8d7e3b-c7c7-4ddf-a03d-3324900192ba@3e8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Killington\, USA\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122766
-DURATION:PT1H
-DTSTART:20241130T200000Z
-SUMMARY:FIS Ski WC Killington GS W 2nd Run
-UID:4f48f577-aed2-476d-baa8-5fd8df93c15a@4f48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Schladming\, AUT\nSlalom Men 1st Run\nNight event\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122827
-DURATION:PT1H
-DTSTART:20250129T164500Z
-SUMMARY:FIS Ski WC Schladming SL M 1st Run
-UID:383e7e65-c3d4-4724-a2dc-7bdafdd2f93b@383e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nGiant Slalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123171
-DURATION:PT1H
-DTSTART:20250326T153000Z
-SUMMARY:FIS Ski WC Sun Valley GS M 1st Run
-UID:f908b17e-a08b-4236-8374-d2efcfdd2aa4@f908.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Beaver Creek\, USA\nDownhill Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122771
-DURATION:PT1H
-DTSTART:20241206T180000Z
-SUMMARY:FIS Ski WC Beaver Creek DH M 
-UID:641ad1fe-4211-42a2-ae6a-0f59a233035b@641a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Are\, SWE\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122848
-DURATION:PT1H
-DTSTART:20250308T113000Z
-SUMMARY:FIS Ski WC Are GS W 2nd Run
-UID:e700073a-a72b-4ecf-8400-1c9ea61ffe40@e700.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Sestriere\, ITA\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122835
-DURATION:PT1H
-DTSTART:20250222T130000Z
-SUMMARY:FIS Ski WC Sestriere GS W 2nd Run
-UID:27bdf83a-0bd3-44b5-8b0e-72d4388cb492@27bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Soelden\, AUT\nGiant Slalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122761
-DURATION:PT1H
-DTSTART:20241027T090000Z
-SUMMARY:FIS Ski WC Soelden GS M 1st Run
-UID:16f59831-7072-4211-9f98-e3c205676896@16f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kvitfjell\, NOR\nDownhill Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122846
-DURATION:PT1H
-DTSTART:20250308T093000Z
-SUMMARY:FIS Ski WC Kvitfjell DH M 
-UID:72a8a67c-dfdb-4e37-92d9-5989d4497b5f@72a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Tremblant\, CAN\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122775
-DURATION:PT1H
-DTSTART:20241208T190000Z
-SUMMARY:FIS Ski WC Tremblant GS W 2nd Run
-UID:a0ed2636-b357-48be-b3b7-86e98191aa34@a0ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Courchevel\, FRA\nSlalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123081
-DURATION:PT1H
-DTSTART:20250130T160000Z
-SUMMARY:FIS Ski WC Courchevel SL W 1st Run
-UID:67b8d21f-ec9e-4de5-b831-d174c34478aa@67b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Beaver Creek\, USA\nDownhill Training Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122770
-DURATION:PT1H
-DTSTART:20241205T070000Z
-SUMMARY:FIS Ski WC Beaver Creek DH TR M 
-UID:a93ea595-145a-43f3-a003-b6dfa41b4f17@a93e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Gurgl\, AUT\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122765
-DURATION:PT1H
-DTSTART:20241124T093000Z
-SUMMARY:FIS Ski WC Gurgl SL M 1st Run
-UID:4ceaae6d-c985-46f9-8417-8e71300cf3bf@4cea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Tremblant\, CAN\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122775
-DURATION:PT1H
-DTSTART:20241208T160000Z
-SUMMARY:FIS Ski WC Tremblant GS W 1st Run
-UID:8809d77d-165d-42cc-8d32-39f5e99e5037@8809.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kronplatz\, ITA\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122815
-DURATION:PT1H
-DTSTART:20250121T093000Z
-SUMMARY:FIS Ski WC Kronplatz GS W 1st Run
-UID:ff42e794-e9b6-431b-b863-b7afe2d54739@ff42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Beaver Creek\, USA\nSuper G Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122772
-DURATION:PT1H
-DTSTART:20241207T173000Z
-SUMMARY:FIS Ski WC Beaver Creek SG M 
-UID:2a44e036-918b-4aa5-98cf-b4aa17e9bbc3@2a44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kitzbuehel\, AUT\nSuper G Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122819
-DURATION:PT1H
-DTSTART:20250124T103000Z
-SUMMARY:FIS Ski WC Kitzbuehel SG M 
-UID:73f2df8b-c740-48cd-9c10-5958bcd6686f@73f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Levi\, FIN\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122763
-DURATION:PT1H
-DTSTART:20241117T120000Z
-SUMMARY:FIS Ski WC Levi SL M 2nd Run
-UID:a3368f41-b362-4f1c-8962-01d5a5509f84@a336.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123173
-DURATION:PT1H
-DTSTART:20250327T180000Z
-SUMMARY:FIS Ski WC Sun Valley SL M 2nd Run
-UID:b6329042-091b-43d4-ac11-b712eec90ed2@b632.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Bormio\, ITA\nSuper G Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122794
-DURATION:PT1H
-DTSTART:20241229T103000Z
-SUMMARY:FIS Ski WC Bormio SG M 
-UID:3977286a-25ab-400e-97f7-2057648dabde@3977.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Adelboden\, SUI\nGiant Slalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122802
-DURATION:PT1H
-DTSTART:20250111T093000Z
-SUMMARY:FIS Ski WC Adelboden GS M 1st Run
-UID:713a2161-9922-479d-bb0c-5dc6c6a019ea@713a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Hafjell\, NOR\nGiant Slalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122850
-DURATION:PT1H
-DTSTART:20250315T083000Z
-SUMMARY:FIS Ski WC Hafjell GS M 1st Run
-UID:1a52e1da-5d45-48d2-9a15-4f2cb46d843f@1a52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Soelden\, AUT\nGiant Slalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122761
-DURATION:PT1H
-DTSTART:20241027T120000Z
-SUMMARY:FIS Ski WC Soelden GS M 2nd Run
-UID:9de3416c-e3be-40c9-a948-eb3acb54ab47@9de3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Val d'Isere\, FRA\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122782
-DURATION:PT1H
-DTSTART:20241215T120000Z
-SUMMARY:FIS Ski WC Val d'Isere SL M 2nd Run
-UID:05a75767-3472-46de-b718-4a39d6b7038b@05a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Hafjell\, NOR\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122851
-DURATION:PT1H
-DTSTART:20250316T083000Z
-SUMMARY:FIS Ski WC Hafjell SL M 1st Run
-UID:f53fb067-b252-47be-bca4-c559a642ae10@f53f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Wengen\, SUI\nDownhill Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122808
-DURATION:PT1H
-DTSTART:20250118T113000Z
-SUMMARY:FIS Ski WC Wengen DH M 
-UID:8368a25d-be4e-48a4-8195-f8747b8513f8@8368.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Schladming\, AUT\nSlalom Men 2nd Run\nNight event\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122827
-DURATION:PT1H
-DTSTART:20250129T194500Z
-SUMMARY:FIS Ski WC Schladming SL M 2nd Run
-UID:3be147a2-216b-4ed0-8d15-5f10b8ea6f68@3be1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Kranjska Gora\, SLO\nGiant Slalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122842
-DURATION:PT1H
-DTSTART:20250301T083000Z
-SUMMARY:FIS Ski WC Kranjska Gora GS M 1st Run
-UID:9fd1fcdb-bc0a-4ad3-9840-69339979729b@9fd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Wengen\, SUI\nSuper G Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122807
-DURATION:PT1H
-DTSTART:20250117T114000Z
-SUMMARY:FIS Ski WC Wengen SG M 
-UID:add813a1-8b4d-42f7-bc48-92453708a7c1@add8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Alta Badia\, ITA\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122790
-DURATION:PT1H
-DTSTART:20241223T090000Z
-SUMMARY:FIS Ski WC Alta Badia SL M 1st Run
-UID:30890de3-ca78-449c-bcc7-02f4e42850b3@3089.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Killington\, USA\nSlalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122767
-DURATION:PT1H
-DTSTART:20241201T200000Z
-SUMMARY:FIS Ski WC Killington SL W 2nd Run
-UID:2083dd21-8bc6-41e5-9363-3c28a5bf7762@2083.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nDownhill Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123166
-DURATION:PT1H
-DTSTART:20250322T183000Z
-SUMMARY:FIS Ski WC Sun Valley DH W 
-UID:c8c6850f-677a-4531-aaec-27362b1f4b04@c8c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup St. Anton\, AUT\nSuper G Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122801
-DURATION:PT1H
-DTSTART:20250112T101500Z
-SUMMARY:FIS Ski WC St. Anton SG W 
-UID:1ffb630f-8f8e-4226-9db6-b4eb9d30c302@1ffb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nSlalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123172
-DURATION:PT1H
-DTSTART:20250327T190000Z
-SUMMARY:FIS Ski WC Sun Valley SL W 2nd Run
-UID:5544457a-d79c-4cb8-874f-54309d1fd246@5544.org
-END:VEVENT
-BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
 DESCRIPTION:FIS Ski World Cup Val Gardena / Groeden\, ITA\nDownhill Training Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=126444
 DURATION:PT1H
 DTSTART:20241216T230000Z
 SUMMARY:FIS Ski WC Val Gardena / Groeden DH TR M 
-UID:854c568f-db38-4968-8077-589a733c385a@854c.org
+UID:e6c2e9c0-d673-419b-9fee-f775775ebee8@e6c2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Tremblant\, CAN\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122775
+DURATION:PT1H
+DTSTART:20241208T190000Z
+SUMMARY:FIS Ski WC Tremblant GS W 2nd Run
+UID:f11c80c4-d739-462e-81e3-8291f73b0843@f11c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Adelboden\, SUI\nGiant Slalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122802
+DURATION:PT1H
+DTSTART:20250111T093000Z
+SUMMARY:FIS Ski WC Adelboden GS M 1st Run
+UID:0be7ea9f-22fc-4b29-bd33-55fac5100c1e@0be7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Flachau\, AUT\nSlalom Women 2nd Run\nNight event\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122810
+DURATION:PT1H
+DTSTART:20250114T194500Z
+SUMMARY:FIS Ski WC Flachau SL W 2nd Run
+UID:41fe7616-122a-467e-868f-bb5e5d5b016f@41fe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Killington\, USA\nSlalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122767
+DURATION:PT1H
+DTSTART:20241201T170000Z
+SUMMARY:FIS Ski WC Killington SL W 1st Run
+UID:169bcea8-4432-45ed-9924-a412c686067e@169b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Beaver Creek\, USA\nDownhill Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122779
+DURATION:PT1H
+DTSTART:20241214T180000Z
+SUMMARY:FIS Ski WC Beaver Creek DH W 
+UID:bbce1c2d-055a-41b2-a70d-c49349df3a72@bbce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nSlalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123172
+DURATION:PT1H
+DTSTART:20250327T160000Z
+SUMMARY:FIS Ski WC Sun Valley SL W 1st Run
+UID:02b38591-94f5-407b-ac3f-6844d769c36f@02b3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nGiant Slalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123171
+DURATION:PT1H
+DTSTART:20250326T180000Z
+SUMMARY:FIS Ski WC Sun Valley GS M 2nd Run
+UID:210634a5-ee1e-45b6-8f62-4a4a249dc847@2106.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Madonna di Campiglio\, ITA\nSlalom Men 2nd Run\nNight event\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122797
+DURATION:PT1H
+DTSTART:20250108T194500Z
+SUMMARY:FIS Ski WC Madonna di Campiglio SL M 2nd Run
+UID:7c05c91d-c176-46ed-891d-6cbb58c7343f@7c05.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup St. Moritz\, SUI\nSuper G Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122783
+DURATION:PT1H
+DTSTART:20241221T093000Z
+SUMMARY:FIS Ski WC St. Moritz SG W 
+UID:1a02fed2-6978-4e39-9101-7a76975633e7@1a02.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup St. Anton\, AUT\nSuper G Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122801
+DURATION:PT1H
+DTSTART:20250112T101500Z
+SUMMARY:FIS Ski WC St. Anton SG W 
+UID:555fe906-2bf1-4adc-a07f-ccb734b615ec@555f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kvitfjell\, NOR\nDownhill Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122840
+DURATION:PT1H
+DTSTART:20250301T093000Z
+SUMMARY:FIS Ski WC Kvitfjell DH W 
+UID:95c1c470-caa9-4d90-bbfe-c7a29deb7eb4@95c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Soelden\, AUT\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122760
+DURATION:PT1H
+DTSTART:20241026T080000Z
+SUMMARY:FIS Ski WC Soelden GS W 1st Run
+UID:cc043f59-4075-4ad4-bc49-43efdbc03126@cc04.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kvitfjell\, NOR\nSuper G Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122847
+DURATION:PT1H
+DTSTART:20250309T093000Z
+SUMMARY:FIS Ski WC Kvitfjell SG M 
+UID:12651d0e-f337-4ff0-a7ee-ce1921de7b1f@1265.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Wengen\, SUI\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122809
+DURATION:PT1H
+DTSTART:20250119T091500Z
+SUMMARY:FIS Ski WC Wengen SL M 1st Run
+UID:1f3104d4-96ed-4b9f-b775-8b75f109291c@1f31.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Wengen\, SUI\nSuper G Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122807
+DURATION:PT1H
+DTSTART:20250117T114000Z
+SUMMARY:FIS Ski WC Wengen SG M 
+UID:38334bd1-2c76-484a-8fc1-e8990636b333@3833.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Semmering\, AUT\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123079
+DURATION:PT1H
+DTSTART:20241228T090000Z
+SUMMARY:FIS Ski WC Semmering GS W 1st Run
+UID:3b08b9b5-d5d1-4c44-9dd5-dcc08f2dab02@3b08.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Alta Badia\, ITA\nGiant Slalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122789
+DURATION:PT1H
+DTSTART:20241222T090000Z
+SUMMARY:FIS Ski WC Alta Badia GS M 1st Run
+UID:c63bff87-9f8e-4947-be85-f4fbcf04bd27@c63b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Hafjell\, NOR\nGiant Slalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122850
+DURATION:PT1H
+DTSTART:20250315T083000Z
+SUMMARY:FIS Ski WC Hafjell GS M 1st Run
+UID:b5ed7b1c-3103-499d-a503-e343b410f859@b5ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Beaver Creek\, USA\nGiant Slalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122773
+DURATION:PT1H
+DTSTART:20241208T200000Z
+SUMMARY:FIS Ski WC Beaver Creek GS M 2nd Run
+UID:e69bc180-910f-4fdd-998c-26001bbb232d@e69b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Hafjell\, NOR\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122851
+DURATION:PT1H
+DTSTART:20250316T083000Z
+SUMMARY:FIS Ski WC Hafjell SL M 1st Run
+UID:6153df59-ba5b-441d-88cf-3ff40b9bf712@6153.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kranjska Gora\, SLO\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122795
+DURATION:PT1H
+DTSTART:20250104T083000Z
+SUMMARY:FIS Ski WC Kranjska Gora GS W 1st Run
+UID:6aaf7c7b-9808-4125-bc97-bfc934a7da86@6aaf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Crans Montana\, SUI\nDownhill Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122833
+DURATION:PT1H
+DTSTART:20250222T090000Z
+SUMMARY:FIS Ski WC Crans Montana DH M 
+UID:48923583-be25-49ec-8319-92c52ee382ab@4892.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kranjska Gora\, SLO\nGiant Slalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122842
+DURATION:PT1H
+DTSTART:20250301T083000Z
+SUMMARY:FIS Ski WC Kranjska Gora GS M 1st Run
+UID:8c3efe34-ee82-4017-98a7-a0b8fd3d8c40@8c3e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Semmering\, AUT\nSlalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123080
+DURATION:PT1H
+DTSTART:20241229T123000Z
+SUMMARY:FIS Ski WC Semmering SL W 2nd Run
+UID:ef68487b-ec3e-480e-81ba-222ee985744c@ef68.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Beaver Creek\, USA\nSuper G Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122780
+DURATION:PT1H
+DTSTART:20241215T180000Z
+SUMMARY:FIS Ski WC Beaver Creek SG W 
+UID:a2c1c379-0bd0-4ef0-9c81-fecd1ff9fa20@a2c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Are\, SWE\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122848
+DURATION:PT1H
+DTSTART:20250308T083000Z
+SUMMARY:FIS Ski WC Are GS W 1st Run
+UID:e8f9b4b5-41dc-4bdb-aa95-3ee2be0fe065@e8f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Cortina d'Ampezzo\, ITA\nDownhill Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122813
+DURATION:PT1H
+DTSTART:20250118T100000Z
+SUMMARY:FIS Ski WC Cortina d'Ampezzo DH W 
+UID:05cfc6c6-f2a0-4ff1-b96c-b2d14125fa3c@05cf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Soelden\, AUT\nGiant Slalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122761
+DURATION:PT1H
+DTSTART:20241027T090000Z
+SUMMARY:FIS Ski WC Soelden GS M 1st Run
+UID:0aba077e-6436-42bc-a1a5-86d99b31e3fc@0aba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kronplatz\, ITA\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122815
+DURATION:PT1H
+DTSTART:20250121T123000Z
+SUMMARY:FIS Ski WC Kronplatz GS W 2nd Run
+UID:4487c448-8d56-4b12-b0b1-9c5c7dee1d85@4487.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Val d'Isere\, FRA\nGiant Slalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122781
+DURATION:PT1H
+DTSTART:20241214T120000Z
+SUMMARY:FIS Ski WC Val d'Isere GS M 2nd Run
+UID:b7ae6ace-251d-4d82-a779-2f343b4acdb0@b7ae.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Sestriere\, ITA\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122835
+DURATION:PT1H
+DTSTART:20250222T130000Z
+SUMMARY:FIS Ski WC Sestriere GS W 2nd Run
+UID:93a90ce5-5261-479a-8f80-d82dc6b8bbf0@93a9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Alta Badia\, ITA\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122790
+DURATION:PT1H
+DTSTART:20241223T090000Z
+SUMMARY:FIS Ski WC Alta Badia SL M 1st Run
+UID:ad50204d-a673-4255-a020-31ed5309a54e@ad50.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Levi\, FIN\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122763
+DURATION:PT1H
+DTSTART:20241117T120000Z
+SUMMARY:FIS Ski WC Levi SL M 2nd Run
+UID:a38d8bc5-6b1a-4c0f-a144-405b2650ae67@a38d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kvitfjell\, NOR\nDownhill Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122846
+DURATION:PT1H
+DTSTART:20250308T093000Z
+SUMMARY:FIS Ski WC Kvitfjell DH M 
+UID:ee24ba0a-c327-48de-b07a-c036524934b6@ee24.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Gurgl\, AUT\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122765
+DURATION:PT1H
+DTSTART:20241124T123000Z
+SUMMARY:FIS Ski WC Gurgl SL M 2nd Run
+UID:7d355853-3d3b-44ae-abb8-0e8d24adf6cb@7d35.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Killington\, USA\nSlalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122767
+DURATION:PT1H
+DTSTART:20241201T200000Z
+SUMMARY:FIS Ski WC Killington SL W 2nd Run
+UID:3448bf5c-0b20-4be2-994b-e6d1ff515ba9@3448.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Levi\, FIN\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122763
+DURATION:PT1H
+DTSTART:20241117T090000Z
+SUMMARY:FIS Ski WC Levi SL M 1st Run
+UID:98159067-6263-4ab0-882a-d5629b829b40@9815.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Levi\, FIN\nSlalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122762
+DURATION:PT1H
+DTSTART:20241116T120000Z
+SUMMARY:FIS Ski WC Levi SL W 2nd Run
+UID:6d702b6e-1819-4a01-a4e2-afc0fed73852@6d70.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kitzbuehel\, AUT\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122821
+DURATION:PT1H
+DTSTART:20250126T123000Z
+SUMMARY:FIS Ski WC Kitzbuehel SL M 2nd Run
+UID:e429a96c-3939-439d-9e87-d46dab95b6e0@e429.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Soelden\, AUT\nGiant Slalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122761
+DURATION:PT1H
+DTSTART:20241027T120000Z
+SUMMARY:FIS Ski WC Soelden GS M 2nd Run
+UID:6890db8a-1bc5-49b6-8cb4-0a573ba60fa8@6890.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kvitfjell\, NOR\nDownhill Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122839
+DURATION:PT1H
+DTSTART:20250228T093000Z
+SUMMARY:FIS Ski WC Kvitfjell DH W 
+UID:f23ca0d2-511c-4c0b-b735-a877f9129ba6@f23c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Schladming\, AUT\nSlalom Men 2nd Run\nNight event\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122827
+DURATION:PT1H
+DTSTART:20250129T194500Z
+SUMMARY:FIS Ski WC Schladming SL M 2nd Run
+UID:463f2d30-43a3-4317-921d-cb212048bf10@463f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Tremblant\, CAN\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122774
+DURATION:PT1H
+DTSTART:20241207T160000Z
+SUMMARY:FIS Ski WC Tremblant GS W 1st Run
+UID:fbf628fb-97fe-4511-9bc4-500b253f2c9f@fbf6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Val d'Isere\, FRA\nGiant Slalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122781
+DURATION:PT1H
+DTSTART:20241214T083000Z
+SUMMARY:FIS Ski WC Val d'Isere GS M 1st Run
+UID:69cd3b33-821b-49ea-9326-216e24183f93@69cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Cortina d'Ampezzo\, ITA\nSuper G Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122814
+DURATION:PT1H
+DTSTART:20250119T100000Z
+SUMMARY:FIS Ski WC Cortina d'Ampezzo SG W 
+UID:48a5e3fb-3b85-4326-991c-e2c592a204ae@48a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kranjska Gora\, SLO\nSlalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122796
+DURATION:PT1H
+DTSTART:20250105T120000Z
+SUMMARY:FIS Ski WC Kranjska Gora SL W 2nd Run
+UID:c07b696f-a6a3-46d7-a53c-bedaa083a50b@c07b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Schladming\, AUT\nGiant Slalom Men 2nd Run\nNight event\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122826
+DURATION:PT1H
+DTSTART:20250128T194500Z
+SUMMARY:FIS Ski WC Schladming GS M 2nd Run
+UID:3ceae7c0-89ed-4c28-a2da-bdfd0228e6ba@3cea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Garmisch-Partenkirchen\, GER\nSuper G Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122825
+DURATION:PT1H
+DTSTART:20250126T100000Z
+SUMMARY:FIS Ski WC Garmisch-Partenkirchen SG W 
+UID:4aac55b4-36c3-430d-b7ae-d0c1384b4677@4aac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Adelboden\, SUI\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122803
+DURATION:PT1H
+DTSTART:20250112T093000Z
+SUMMARY:FIS Ski WC Adelboden SL M 1st Run
+UID:408c20e6-b2d4-4764-b20b-5ce4c1778a46@408c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Wengen\, SUI\nDownhill Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122808
+DURATION:PT1H
+DTSTART:20250118T113000Z
+SUMMARY:FIS Ski WC Wengen DH M 
+UID:bcbbe337-b6b4-46fd-9f59-3871fdadb445@bcbb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kranjska Gora\, SLO\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122843
+DURATION:PT1H
+DTSTART:20250302T083000Z
+SUMMARY:FIS Ski WC Kranjska Gora SL M 1st Run
+UID:d2917690-fcc1-4318-9f77-e78da8b468c2@d291.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Val d'Isere\, FRA\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122782
+DURATION:PT1H
+DTSTART:20241215T090000Z
+SUMMARY:FIS Ski WC Val d'Isere SL M 1st Run
+UID:a858a230-c3c3-41a8-a12c-83560efa5734@a858.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Bormio\, ITA\nDownhill Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122793
+DURATION:PT1H
+DTSTART:20241228T103000Z
+SUMMARY:FIS Ski WC Bormio DH M 
+UID:299242bc-8fdc-4aff-b643-77249400e7ad@2992.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Beaver Creek\, USA\nSuper G Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122772
+DURATION:PT1H
+DTSTART:20241207T173000Z
+SUMMARY:FIS Ski WC Beaver Creek SG M 
+UID:b5238287-fbac-4323-a288-011f204deceb@b523.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Killington\, USA\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122766
+DURATION:PT1H
+DTSTART:20241130T200000Z
+SUMMARY:FIS Ski WC Killington GS W 2nd Run
+UID:d2a47994-59ee-4539-9836-7072d058fe94@d2a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kronplatz\, ITA\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122815
+DURATION:PT1H
+DTSTART:20250121T093000Z
+SUMMARY:FIS Ski WC Kronplatz GS W 1st Run
+UID:b10ff709-0672-4af5-9fb4-d925d61a7ac1@b10f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Crans Montana\, SUI\nSuper G Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122834
+DURATION:PT1H
+DTSTART:20250223T093000Z
+SUMMARY:FIS Ski WC Crans Montana SG M 
+UID:39c7c004-4032-4fe2-a1f4-4d025d763033@39c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Sestriere\, ITA\nSlalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122836
+DURATION:PT1H
+DTSTART:20250223T083000Z
+SUMMARY:FIS Ski WC Sestriere SL W 1st Run
+UID:88c9eff0-ef28-463a-b3a7-c4a4a3f37e1d@88c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kranjska Gora\, SLO\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122795
+DURATION:PT1H
+DTSTART:20250104T114500Z
+SUMMARY:FIS Ski WC Kranjska Gora GS W 2nd Run
+UID:bb15c923-bf11-4a09-9822-d60b0e69cf82@bb15.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Beaver Creek\, USA\nDownhill Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122771
+DURATION:PT1H
+DTSTART:20241206T180000Z
+SUMMARY:FIS Ski WC Beaver Creek DH M 
+UID:f717c17e-bd8a-45f8-8140-9ecb46e16bf5@f717.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Are\, SWE\nSlalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122849
+DURATION:PT1H
+DTSTART:20250309T083000Z
+SUMMARY:FIS Ski WC Are SL W 1st Run
+UID:843fe97c-7248-4f4c-8291-6558fa110c84@843f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nDownhill Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123167
+DURATION:PT1H
+DTSTART:20250322T170000Z
+SUMMARY:FIS Ski WC Sun Valley DH M 
+UID:2f4e48fa-7831-4ba2-a6f1-e0fc033452c2@2f4e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123170
+DURATION:PT1H
+DTSTART:20250325T153000Z
+SUMMARY:FIS Ski WC Sun Valley GS W 1st Run
+UID:4d062a61-f53a-466e-bb10-68aff7bd9b58@4d06.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Alta Badia\, ITA\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122790
+DURATION:PT1H
+DTSTART:20241223T123000Z
+SUMMARY:FIS Ski WC Alta Badia SL M 2nd Run
+UID:16f55fbb-4a76-4dc0-8fb9-b06b5ee6c625@16f5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Schladming\, AUT\nSlalom Men 1st Run\nNight event\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122827
+DURATION:PT1H
+DTSTART:20250129T164500Z
+SUMMARY:FIS Ski WC Schladming SL M 1st Run
+UID:1d57ed12-ad2b-45ff-87e0-d35cbdbe4b31@1d57.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Are\, SWE\nSlalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122849
+DURATION:PT1H
+DTSTART:20250309T113000Z
+SUMMARY:FIS Ski WC Are SL W 2nd Run
+UID:97d7d4a4-7787-4351-af14-efbd0b6963dd@97d7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Garmisch-Partenkirchen\, GER\nDownhill Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122824
+DURATION:PT1H
+DTSTART:20250125T091500Z
+SUMMARY:FIS Ski WC Garmisch-Partenkirchen DH W 
+UID:73eea231-340e-4510-81e5-a6058a9dbcb7@73ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Gurgl\, AUT\nSlalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122764
+DURATION:PT1H
+DTSTART:20241123T093000Z
+SUMMARY:FIS Ski WC Gurgl SL W 1st Run
+UID:70a99cca-32ed-4b63-a5db-4b3a6bd5e16b@70a9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Val d'Isere\, FRA\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122782
+DURATION:PT1H
+DTSTART:20241215T120000Z
+SUMMARY:FIS Ski WC Val d'Isere SL M 2nd Run
+UID:c70bda8d-18ef-4584-83ef-309ba68e1dbc@c70b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Garmisch-Partenkirchen\, GER\nDownhill Training Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122822
+DURATION:PT1H
+DTSTART:20250122T230000Z
+SUMMARY:FIS Ski WC Garmisch-Partenkirchen DH TR W 
+UID:770f52fe-76ee-4892-a482-7c9edfa6f79f@770f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Semmering\, AUT\nSlalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123080
+DURATION:PT1H
+DTSTART:20241229T093000Z
+SUMMARY:FIS Ski WC Semmering SL W 1st Run
+UID:a078f347-edc0-4ed5-af87-e1be0f0def24@a078.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Val Gardena / Groeden\, ITA\nSuper G Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122787
+DURATION:PT1H
+DTSTART:20241220T104500Z
+SUMMARY:FIS Ski WC Val Gardena / Groeden SG M 
+UID:37e9db7e-3f02-4c6e-a9f3-0e95f8f1ac2e@37e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Beaver Creek\, USA\nDownhill Training Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122770
+DURATION:PT1H
+DTSTART:20241205T070000Z
+SUMMARY:FIS Ski WC Beaver Creek DH TR M 
+UID:8ccc896b-3282-4967-9a30-d8b468470c5b@8ccc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nSuper G Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123168
+DURATION:PT1H
+DTSTART:20250323T170000Z
+SUMMARY:FIS Ski WC Sun Valley SG W 
+UID:b715ba72-d531-409e-a19d-cbee9ee83de5@b715.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Flachau\, AUT\nSlalom Women 1st Run\nNight event\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122810
+DURATION:PT1H
+DTSTART:20250114T164500Z
+SUMMARY:FIS Ski WC Flachau SL W 1st Run
+UID:3455e9dc-bd53-4613-a3ba-70d32b4ac69b@3455.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Beaver Creek\, USA\nGiant Slalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122773
+DURATION:PT1H
+DTSTART:20241208T170000Z
+SUMMARY:FIS Ski WC Beaver Creek GS M 1st Run
+UID:f52d4463-4105-40bf-8ca5-c65b9b50bf58@f52d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nSuper G Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123169
+DURATION:PT1H
+DTSTART:20250323T183000Z
+SUMMARY:FIS Ski WC Sun Valley SG M 
+UID:bd15703e-d04a-4561-b8ab-76e926ea86cc@bd15.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Sestriere\, ITA\nSlalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122836
+DURATION:PT1H
+DTSTART:20250223T111500Z
+SUMMARY:FIS Ski WC Sestriere SL W 2nd Run
+UID:c13169c9-a0ce-4fe0-bd93-0725f065a7ca@c131.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Courchevel\, FRA\nSlalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123081
+DURATION:PT1H
+DTSTART:20250130T190000Z
+SUMMARY:FIS Ski WC Courchevel SL W 2nd Run
+UID:76e6f977-6e8f-4f41-a6db-f849973d6a18@76e6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Bormio\, ITA\nSuper G Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122794
+DURATION:PT1H
+DTSTART:20241229T103000Z
+SUMMARY:FIS Ski WC Bormio SG M 
+UID:d1f36000-739f-4e0f-beac-25ffede1a6f0@d1f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nGiant Slalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123171
+DURATION:PT1H
+DTSTART:20250326T153000Z
+SUMMARY:FIS Ski WC Sun Valley GS M 1st Run
+UID:18317192-e2fc-4370-b1aa-2d05c3680f7b@1831.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kranjska Gora\, SLO\nGiant Slalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122842
+DURATION:PT1H
+DTSTART:20250301T113000Z
+SUMMARY:FIS Ski WC Kranjska Gora GS M 2nd Run
+UID:d040d032-b37b-4922-a18f-389dde854735@d040.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kitzbuehel\, AUT\nSuper G Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122819
+DURATION:PT1H
+DTSTART:20250124T103000Z
+SUMMARY:FIS Ski WC Kitzbuehel SG M 
+UID:7249f965-cc9b-44da-b2ca-4c96de894dc1@7249.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123173
+DURATION:PT1H
+DTSTART:20250327T180000Z
+SUMMARY:FIS Ski WC Sun Valley SL M 2nd Run
+UID:1b7c9b74-ee25-47fe-bbb1-c742c792de02@1b7c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Tremblant\, CAN\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122774
+DURATION:PT1H
+DTSTART:20241207T190000Z
+SUMMARY:FIS Ski WC Tremblant GS W 2nd Run
+UID:1cf876f4-618f-495d-8467-c5999be2c923@1cf8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kranjska Gora\, SLO\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122843
+DURATION:PT1H
+DTSTART:20250302T113000Z
+SUMMARY:FIS Ski WC Kranjska Gora SL M 2nd Run
+UID:43e69ad4-15f5-465f-a6c1-0a75865079b6@43e6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123170
+DURATION:PT1H
+DTSTART:20250325T180000Z
+SUMMARY:FIS Ski WC Sun Valley GS W 2nd Run
+UID:5686508c-21de-43ec-b334-987dc7421079@5686.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Courchevel\, FRA\nSlalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123081
+DURATION:PT1H
+DTSTART:20250130T160000Z
+SUMMARY:FIS Ski WC Courchevel SL W 1st Run
+UID:17c839a1-6419-4551-8b15-40fa5d1bf250@17c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Soelden\, AUT\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122760
+DURATION:PT1H
+DTSTART:20241026T110000Z
+SUMMARY:FIS Ski WC Soelden GS W 2nd Run
+UID:e4edda19-a713-4408-9c6b-9c9a3661e6b6@e4ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nDownhill Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123166
+DURATION:PT1H
+DTSTART:20250322T183000Z
+SUMMARY:FIS Ski WC Sun Valley DH W 
+UID:4ccb95e7-d5e1-4a24-b9ca-7f71547f4bd8@4ccb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Adelboden\, SUI\nGiant Slalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122802
+DURATION:PT1H
+DTSTART:20250111T123000Z
+SUMMARY:FIS Ski WC Adelboden GS M 2nd Run
+UID:735016d4-187d-4fb7-949a-2cf610aceec3@7350.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Hafjell\, NOR\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122851
+DURATION:PT1H
+DTSTART:20250316T113000Z
+SUMMARY:FIS Ski WC Hafjell SL M 2nd Run
+UID:c49fa278-a46c-40e8-80b7-6c7f28baf99b@c49f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Semmering\, AUT\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123079
+DURATION:PT1H
+DTSTART:20241228T120000Z
+SUMMARY:FIS Ski WC Semmering GS W 2nd Run
+UID:d8cdcdb3-d4f6-445f-9b3e-a3747ea38989@d8cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kvitfjell\, NOR\nSuper G Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122841
+DURATION:PT1H
+DTSTART:20250302T093000Z
+SUMMARY:FIS Ski WC Kvitfjell SG W 
+UID:a3d8c192-cb23-4bea-815c-615588b5027f@a3d8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Hafjell\, NOR\nGiant Slalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122850
+DURATION:PT1H
+DTSTART:20250315T113000Z
+SUMMARY:FIS Ski WC Hafjell GS M 2nd Run
+UID:1577fee6-a433-4e4c-aaea-842a56b3b37b@1577.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Garmisch-Partenkirchen\, GER\nDownhill Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122830
+DURATION:PT1H
+DTSTART:20250202T103000Z
+SUMMARY:FIS Ski WC Garmisch-Partenkirchen DH M 
+UID:aecd2698-2772-44f7-bd2c-78aaeb211436@aecd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Wengen\, SUI\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122809
+DURATION:PT1H
+DTSTART:20250119T121500Z
+SUMMARY:FIS Ski WC Wengen SL M 2nd Run
+UID:4abfef84-71f9-445e-af6f-abcf5a150891@4abf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kranjska Gora\, SLO\nSlalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122796
+DURATION:PT1H
+DTSTART:20250105T090000Z
+SUMMARY:FIS Ski WC Kranjska Gora SL W 1st Run
+UID:a043460d-7f22-457b-a7ca-4f8f1d627c31@a043.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Levi\, FIN\nSlalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122762
+DURATION:PT1H
+DTSTART:20241116T090000Z
+SUMMARY:FIS Ski WC Levi SL W 1st Run
+UID:70b95a1a-15a6-496f-8fca-e6daeb85cae3@70b9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Are\, SWE\nGiant Slalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122848
+DURATION:PT1H
+DTSTART:20250308T113000Z
+SUMMARY:FIS Ski WC Are GS W 2nd Run
+UID:15abb88e-c22e-4121-ad5c-11587ae999f6@15ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123173
+DURATION:PT1H
+DTSTART:20250327T150000Z
+SUMMARY:FIS Ski WC Sun Valley SL M 1st Run
+UID:0b1e46b6-c66f-4a82-a7e3-5be83decb1a0@0b1e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup St. Anton\, AUT\nDownhill Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122800
+DURATION:PT1H
+DTSTART:20250111T101500Z
+SUMMARY:FIS Ski WC St. Anton DH W 
+UID:cb3f608e-7780-4366-a0b9-522ef37e357d@cb3f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Sestriere\, ITA\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122835
+DURATION:PT1H
+DTSTART:20250222T100000Z
+SUMMARY:FIS Ski WC Sestriere GS W 1st Run
+UID:c708607d-74e7-4049-a6d1-0cd4a3a6492e@c708.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Sun Valley\, USA\nSlalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123172
+DURATION:PT1H
+DTSTART:20250327T190000Z
+SUMMARY:FIS Ski WC Sun Valley SL W 2nd Run
+UID:6abae298-a575-439e-a341-3eede71b4f58@6aba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kitzbuehel\, AUT\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122821
+DURATION:PT1H
+DTSTART:20250126T091500Z
+SUMMARY:FIS Ski WC Kitzbuehel SL M 1st Run
+UID:47665e67-0f70-4859-94b0-7dd61265dc62@4766.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Adelboden\, SUI\nSlalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122803
+DURATION:PT1H
+DTSTART:20250112T123000Z
+SUMMARY:FIS Ski WC Adelboden SL M 2nd Run
+UID:498ea6ca-14e8-47ac-a0da-58f8d44b07ee@498e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Killington\, USA\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122766
+DURATION:PT1H
+DTSTART:20241130T170000Z
+SUMMARY:FIS Ski WC Killington GS W 1st Run
+UID:d45ec3ac-97fb-4176-951c-841a7d4c85c6@d45e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Gurgl\, AUT\nSlalom Men 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122765
+DURATION:PT1H
+DTSTART:20241124T093000Z
+SUMMARY:FIS Ski WC Gurgl SL M 1st Run
+UID:0e6c0e23-9f94-48a5-a2a7-1cc8eaa504cd@0e6c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Tremblant\, CAN\nGiant Slalom Women 1st Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122775
+DURATION:PT1H
+DTSTART:20241208T160000Z
+SUMMARY:FIS Ski WC Tremblant GS W 1st Run
+UID:8e28717d-d62c-4f47-9d27-bd37718e5329@8e28.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Val Gardena / Groeden\, ITA\nDownhill Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122788
+DURATION:PT1H
+DTSTART:20241221T104500Z
+SUMMARY:FIS Ski WC Val Gardena / Groeden DH M 
+UID:17354cd0-dd13-48b5-9a59-489aa4902ba8@1735.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup La Thuile\, ITA\nDownhill Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123084
+DURATION:PT1H
+DTSTART:20250314T100000Z
+SUMMARY:FIS Ski WC La Thuile DH W 
+UID:95722766-f123-4ae4-b9e6-e09710788178@9572.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup St. Moritz\, SUI\nSuper G Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122784
+DURATION:PT1H
+DTSTART:20241222T100000Z
+SUMMARY:FIS Ski WC St. Moritz SG W 
+UID:5471e463-eb92-494c-a51f-e18f61c22797@5471.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Kitzbuehel\, AUT\nDownhill Men \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122820
+DURATION:PT1H
+DTSTART:20250125T103000Z
+SUMMARY:FIS Ski WC Kitzbuehel DH M 
+UID:d5369511-6de2-4833-ad8f-009500accad1@d536.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Alta Badia\, ITA\nGiant Slalom Men 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122789
+DURATION:PT1H
+DTSTART:20241222T123000Z
+SUMMARY:FIS Ski WC Alta Badia GS M 2nd Run
+UID:ec0b9366-c31e-4104-959b-8ebef891d429@ec0b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Schladming\, AUT\nGiant Slalom Men 1st Run\nNight event\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122826
+DURATION:PT1H
+DTSTART:20250128T164500Z
+SUMMARY:FIS Ski WC Schladming GS M 1st Run
+UID:5227e022-e666-43c8-9733-9c95fec6d0be@5227.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Madonna di Campiglio\, ITA\nSlalom Men 1st Run\nNight event\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122797
+DURATION:PT1H
+DTSTART:20250108T164500Z
+SUMMARY:FIS Ski WC Madonna di Campiglio SL M 1st Run
+UID:12325c75-7732-4fac-ab26-d5fda4bf3469@1232.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup La Thuile\, ITA\nSuper G Women \nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=123085
+DURATION:PT1H
+DTSTART:20250315T100000Z
+SUMMARY:FIS Ski WC La Thuile SG W 
+UID:1e0e3364-d9e1-4136-9e96-0eb9699ecc4c@1e0e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT5M
+END:VALARM
+DESCRIPTION:FIS Ski World Cup Gurgl\, AUT\nSlalom Women 2nd Run\nhttps://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=122764
+DURATION:PT1H
+DTSTART:20241123T123000Z
+SUMMARY:FIS Ski WC Gurgl SL W 2nd Run
+UID:cca3229a-5d06-45f2-83a2-921080727712@cca3.org
 END:VEVENT
 END:VCALENDAR
