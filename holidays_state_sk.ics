@@ -1,0 +1,2500 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:772e4960-24f2-4a23-9d08-d614ba49aef2@772e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20480508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:b7429c7c-152c-4a63-8546-7306bde33641@b742.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20451028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:541c73a8-bfb7-4ecd-9116-02b9a2ab3b9c@541c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20491117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:e36d08c1-44cd-4792-8c08-fd9aa7189cbd@e36d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20421117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:e848500c-adfe-4c3e-97a4-77fbcdee70ff@e848.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:0b11bc91-a891-46ef-ac6f-2fdb37234aa0@0b11.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:494031e1-cea1-4a12-9960-17a110c11afa@4940.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20381225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:c2e6b7a8-6a2e-4f58-8a45-edefb6cf8776@c2e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20360829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:10eef66a-e133-4fee-b3bb-d7b630cc36e0@10ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:f3c06dd8-16c2-4d74-bd0f-593b4f797383@f3c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20370901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:3d05c4c1-f2de-4c92-a250-aaff1b6eaa5f@3d05.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:06a2c31c-9455-432a-8101-d54173914f5a@06a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20341028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:ba981edd-abcf-4650-aa23-1369225519fc@ba98.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20471225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:6f07d3c4-fca5-48a8-923f-e7cce59bfc72@6f07.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20490605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:f052e48c-8864-4570-8772-18e5640563f2@f052.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20371226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:87b567d5-f79d-4322-91b9-ddef498cdcc1@87b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20490508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:d28e3e3c-b8a2-48fd-846f-c569ea0b3090@d28e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:affc5454-2a99-4b11-8d52-4c444ea45c2a@affc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20311028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:79a4271a-7abb-4c88-a41f-976920f6f59b@79a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20371225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:13e5dfa8-5b1c-4bca-a375-c2f3e9f3a620@13e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20320901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:41416221-3374-45e3-8b8f-81df34f44290@4141.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20430901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:8e59834f-f967-4c1e-baf4-d4f045c4814a@8e59.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:08082a9c-4c12-4f87-9706-7a915309ae58@0808.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20460915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:13134d58-b8f3-4948-998f-a2b093da72d0@1313.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20501226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:1615459a-543b-4f99-8b62-5b885019cd0c@1615.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20420915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:88a942d7-c0c5-4f2e-9213-f55a941dd110@88a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:61c9b1b2-ddfa-4ecc-a205-a3fc56ddc60d@61c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20371101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:6e4db912-8301-42ca-b8e4-04f9788d7983@6e4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20391028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:70310353-0b8a-484e-a462-2b209f138228@7031.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20480829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:e4aed3e9-cd25-4c54-804d-87a940f109e8@e4ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20430501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:91d0cf75-8406-4b4d-a745-2a59a5460abd@91d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20471101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:26e502cf-cf2a-4b5f-ab13-66c34bf4f436@26e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:0f903e39-280d-4486-9872-0a1aafb1857c@0f90.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20500408
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:730ade32-e374-4af0-8dea-56a1332a1db2@730a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:267b8dd9-6c34-44c8-b428-954375e5affe@267b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:9c3c8b75-c903-4675-a4a0-7178a8edadf0@9c3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:4a700fcf-380a-42d0-a3c9-d6e2cac47fdf@4a70.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20401225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:c061bab5-288d-41b7-a560-26bfaef60b33@c061.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20491101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:b2f8c422-b081-4662-b0cb-8446be1002e1@b2f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:bac86bc7-75a6-4a26-b4e7-a233de81599a@bac8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20440829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:3d92e0ed-3b2a-48e0-a53d-0f78cbc11840@3d92.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20321028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:75b9cdbd-1b8c-41e6-8d2e-01b80b7943ed@75b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20400605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:acd10d4d-b75e-4f6d-89b7-b0a7b43827dc@acd1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20480403
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:1df26f75-a36c-4909-beda-d866d9e9e8bf@1df2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:a62c546b-88d0-4ff5-99ba-a2a8571e8811@a62c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:5ed3ade5-36eb-4cc2-a024-bdaacd34d26b@5ed3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20400330
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:353fc77c-aa85-4359-8f70-b28c78dbdf44@353f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20470901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:a4bdfe08-2eb5-4736-9cce-97b4b57483f4@a4bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20321117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:58b373e1-13be-460b-b253-00fb795379c6@58b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:0f49c0b2-f0b3-4f42-8be2-e1448134096e@0f49.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20500829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:3add812b-5d08-49aa-b70b-ddff11da1c0a@3add.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20420407
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:f8764d92-3039-4f55-9b7b-ec2f21c43c57@f876.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20460829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:c383b627-2f29-4c83-b655-078977aeb871@c383.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20380423
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:4293f274-b497-4fc8-8f36-ff87aabd3bdf@4293.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20410829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:cb3e8b35-1b57-45e2-bf3c-433350c684fe@cb3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20461225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:b75d312f-7fb0-426f-9de6-f4fe35b82e1e@b75d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20501225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:e31b21ea-c99f-4e38-af42-233ddc6f4c22@e31b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20421028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:696de8de-a067-4ee6-b2d2-95dd82ff8070@696d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:46e62475-d374-4959-9868-a31bf5154686@46e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:1cab24fc-164f-4069-b559-9ddaa9e22ce2@1cab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20311101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:b8bf6ec7-2c9e-47b5-863e-f2180e41555f@b8bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20440501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:1f570741-65f0-41a5-8a5f-d54325d04431@1f57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20370915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:f6a97015-3dc5-4a41-9e1b-f8d6af941ff3@f6a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:d25c9c85-26f1-4ba4-b09b-6614bf847d0c@d25c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20481224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:fcdc79fe-2c3e-4cfc-b271-8dfb4d111dc2@fcdc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20360915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:fd9ad246-121a-4694-9335-60a0a1081af2@fd9a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20341224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:d8e72821-5e38-4e7e-8dc9-d55304452c0b@d8e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20350901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:f3e57987-db0b-4e55-b503-f15dce521500@f3e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280417
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:badb3982-4fea-42f6-a2a5-e52df0e3871f@badb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:da20423d-40b8-429d-a379-da5f2fbf2635@da20.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20370605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:114e38cb-3326-41c8-b921-f18bdb45466d@114e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20470508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:b24c6a06-ae88-4777-ba98-02d056669ee3@b24c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300422
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:80a98dcc-addd-4322-96cf-642a4be2b8df@80a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20350101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:a82f6659-7e83-4164-b00d-8bfcba6408da@a82f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20420404
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:4484dcf2-601a-4694-ba2b-9719b4221c33@4484.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:d085a60d-39b6-4b7d-a8dd-c4f660b030f5@d085.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20401101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:730e82ed-33ba-479a-8229-de2adce206b4@730e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20371028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:b019ba9a-e3d3-4ee0-ae59-cc21022d5a47@b019.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20390501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:06c3768c-e83c-4a92-901f-c44a2114fab8@06c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20380508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:74fda788-6b2e-4d21-ad56-74ae6e89b02d@74fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20361225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:ac96fd43-3fee-4440-a542-9c606d2c54a6@ac96.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20441117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:f4f851c0-a5b8-40e4-b59b-8938cd6e7c0f@f4f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20351117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:ee82ec82-5798-4c17-bd61-c89db03dbc80@ee82.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20410605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:52240c63-3de6-4894-91bc-d32441abfe93@5224.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20430327
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:55838900-17be-4797-9821-e9eb611f6345@5583.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20431101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:3ea394d0-ca95-4c04-858a-6d0da7e6e613@3ea3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20340829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:94ec57a3-fe8d-4849-b690-b336c1b630e7@94ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20490106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:25ab673c-99ec-4515-8c39-5936c2b0d114@25ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:9983d5de-b3f1-4ed5-b452-dff25c1159da@9983.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20390605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:4c8ca774-236c-4f03-9516-dbd1cd34144a@4c8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20370508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:ac220615-6158-4dde-8254-c0ebd949b442@ac22.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:48b7958c-3867-4182-a602-5eb76b9a06cf@48b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20440415
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:1c699c79-1e3a-4949-a452-b8d94fd9798d@1c69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20410419
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:1a25b5bc-f1ce-4467-854b-4d4bb4ac8d58@1a25.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:4fb81112-3998-43a8-81bb-064b094cb405@4fb8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20481226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:b0b09369-32b8-4f4d-89f8-63b2ff681594@b0b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20350501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:5bb3e48d-a943-4a50-848a-f9a0620457d9@5bb3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20380901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:8535f1fa-2116-4bdc-b6f2-78341d6d7410@8535.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290402
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:4572ef16-38d1-4bc0-bd81-6a87c1c51ee2@4572.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20490101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:fe954a77-31ab-4d1d-a21e-3548bc47a666@fe95.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:2f437f8d-3d94-4a43-871b-584e1dd88bf5@2f43.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20430915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:f69636b3-c969-4d92-bc84-89296cb8756c@f696.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:12eadc3a-f74e-48eb-94e3-5063737d055b@12ea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20500106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:8ef7e1db-8b00-42cc-a54a-251098e4dd5e@8ef7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20380106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:45e0d8c5-65fe-41d8-847e-d2ab7f9e44d7@45e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20431224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:73ba4c9f-75ab-4c61-84ce-ea459000d572@73ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:75c54976-84ef-40f4-b66b-33986138e23f@75c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20410915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:8cecb297-77d7-41b2-91b5-3f152e8d21b7@8cec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20370101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:ea732244-695d-4002-9fd7-76b1c3d34a47@ea73.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20440106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:697c4f78-e54e-4c16-acf4-11cb2796ba22@697c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20380605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:38930bba-bb17-441c-b526-c0e876e72036@3893.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:9b4ee58d-c8e5-4190-aea0-67bc274082ca@9b4e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20381226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:12f3d580-4032-49fa-a502-d23f8e9000ed@12f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20490419
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:7854a67f-3699-4376-ad0b-3c0b9e9e4f4c@7854.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20441225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:37815c17-4ae5-4b09-aecd-7693edee8f9f@3781.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20391224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:5d0265c9-ab18-4697-91a0-942802073d32@5d02.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:ee7cc97c-f542-4abe-957d-e37deecf83ed@ee7c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20340915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:263a32fc-8a89-40e4-8279-01cd72ddd1dd@263a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20461224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:86bca46b-4562-4d2d-8d23-a9ecbfb1b4cb@86bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:421fefac-4061-46db-815f-77f82936d60b@421f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:24feca12-370c-4067-8629-68ea12c05973@24fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20401028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:b994a62b-c809-4d86-9b64-b2ec1461d0f0@b994.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20320106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:3ff96291-6bb4-486f-bbcd-c0b5783ce8aa@3ff9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:93df3211-f08c-4a6a-af76-b3ff25f42bac@93df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20401224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:4d34e94a-d88a-4759-bc0a-b8e51bfbe5b1@4d34.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20411101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:94ceaa4a-d126-4413-8ba5-a7927b2abe4a@94ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20480101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:d3f330df-f9a8-4058-8ea5-1e2df2ce58dd@d3f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20500411
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:3deb8f9e-c33f-424e-b934-f244d098fc6c@3deb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20491226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:fd999523-2ba8-4854-8dfc-e563843a5988@fd99.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20421101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:b48ad2d0-0d42-459e-8140-b44bb7d5ce5a@b48a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:dd913f1b-1555-45b1-bcfc-0e06676d882c@dd91.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20361028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:0cd6e12e-8530-46e5-8ad5-8411766690c7@0cd6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20320326
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:4338715f-c6bd-4494-8876-b0227f57d48c@4338.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20450407
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:1e045ddc-cfa3-4c67-891c-8eda2064f516@1e04.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20420501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:e0119e0d-ac10-4df6-b4c7-22cc641da78f@e011.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:bac9153a-f827-4f18-a7bb-01c466cf1d02@bac9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20370501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:dc0dda70-6bf6-4de6-8fc8-debaf3caadec@dc0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20430508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:f9027d08-5f88-4a85-b593-db272347b2ad@f902.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20470415
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:da137167-448e-4390-a13a-33bb970983bf@da13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20480901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:0cee36c1-bead-4cc7-88ff-7a56be109754@0cee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:c8339b23-4afe-4d0f-b8e5-27c28b1ab554@c833.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:d5cf5633-952c-4102-b7b0-ffcf945f124a@d5cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:2600a1f5-5c36-4bfe-ba40-b7d44c6562a2@2600.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20390829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:bed96d18-e2cc-4013-8784-70091e4d4205@bed9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20460605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:9114e6d7-ae19-441c-8892-0705fb650e55@9114.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20490829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:3212303e-37a6-4e08-858a-d71cdcbcdc89@3212.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20481225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:e839d522-8120-42ef-b519-7a967fbdc7ed@e839.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20360414
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:39c9a8c8-5677-498c-9a58-6ec8559beb4e@39c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20390408
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:cbdda09b-4f6d-45d4-b1f5-c43e524d4631@cbdd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20491028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:f2e80302-14c2-4361-b51f-16998b680131@f2e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20340101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:0f9d4db0-407b-4ebe-a517-2e527dab65eb@0f9d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20341117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:091d2442-9a38-4e53-a527-2572c4c5b221@091d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:13325ada-a288-4144-a10b-a3a342806679@1332.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20320508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:a984ef9c-c8c2-43fd-b208-6f68d5606321@a984.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330415
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:9e0311cc-6419-458a-8820-2ce6194427bd@9e03.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20400508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:0903a8da-b0c6-48eb-84e7-866f1836638c@0903.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20351225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:eb8f6f87-7f26-404c-9769-eebecceb3a9c@eb8f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20360106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:0002d2e6-cdd2-4a97-b6e2-727682d27f46@0002.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20350508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:515deac4-cb4f-48ea-b107-80e3bdef43af@515d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:b47e6708-abf4-454f-a4ae-1c3ad74c00a2@b47e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20470101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:5b9bcf1b-ccc5-4b9d-aed4-5453075669c2@5b9b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:907a6262-9c8f-4637-816b-d209a3a67a77@907a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20500605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:2fb3affb-4883-4371-91b3-0b95616960c2@2fb3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20361226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:1ed8ed8c-5416-4eaa-80e9-6c3ca41cd6f9@1ed8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20420605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:b743a7d0-036c-4238-aec5-ad975ca5e772@b743.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330418
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:097c7455-271a-4474-8eaa-d10be36b6235@097c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20441226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:ce878cd7-64aa-4854-8955-ce47f35b901d@ce87.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20381117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:ad8a2c25-39bc-4754-87ca-44414913fd76@ad8a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:efbcebc2-936a-46de-b938-58a4bc013839@efbc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20451117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:c0b68480-6264-45fd-a166-b7f8b9e3c777@c0b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20471226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:6f74bc2d-2bb9-410a-a983-217aa7ab67f6@6f74.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:5d76005a-dc58-4139-a5d0-b205c63d0ce7@5d76.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:c2183d28-8f6c-4b9c-aeeb-af495e86129d@c218.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:9760ed67-3a28-416d-a250-5a544e697f5f@9760.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20471224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:a681c2f7-0b92-4abb-8abe-bb6aa9e35d1e@a681.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:d7f4888f-63e8-4184-bb8d-707f8a405d62@d7f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20321224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:5c88b008-6fa8-40a2-9f88-42ca60ed4dfd@5c88.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:1f06401f-213c-442d-8c06-aafa4f6d7c89@1f06.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20381101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:51f80898-603a-43fe-8dd8-092f30dc147a@51f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20460326
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:f5d57bbe-3935-4c4c-9a51-079eb62b1b13@f5d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:cb4bc1ac-bafd-47b8-976a-ad6d0f866d47@cb4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20350915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:a322d879-9d8c-437b-a02b-6431f31a460a@a322.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:e41fc008-2fdc-4b35-be01-9d68ee52b941@e41f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20501101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:cf5aab0f-6333-43bd-bcb8-37bc463a7bce@cf5a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20361101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:e6d2d1f6-94f5-4abb-917e-db36d44b3af9@e6d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20450501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:59810ba8-797b-466f-b986-fffee53a41ab@5981.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20460106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:21b179bd-f357-476a-97de-c419678d69fc@21b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20461226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:b981a0e6-a1e1-4fa3-a127-49997cb30b44@b981.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310411
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:e9bbba8c-08d2-4b6a-93e2-c7dba4de099b@e9bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20311117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:377fe3f2-4d17-4b23-b2b0-528967e3a169@377f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20351226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:7f21108b-9eb6-4954-8028-1f82bb502dad@7f21.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:b1185f12-a3b9-45e8-8a56-569153cb1381@b118.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20390106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:b336ffa7-6192-4ed4-9554-a9e047150525@b336.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:09bd254a-06c2-4534-a8f7-9bd029d2248c@09bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:579d000f-e96a-4c5e-8c1f-12f52c31d5b8@579d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:26142c8e-5662-4ae6-ac12-d9f223b65027@2614.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20351224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:067ff468-9d86-4546-9703-2dd727067ded@067f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20481101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:2cd11d26-12d7-4ef4-a4c4-11c66e88ee6a@2cd1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20490915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:0b4f669e-58aa-48d1-ae89-e74c14dd9c95@0b4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20381028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:9d00d0ac-c4dc-42d8-b416-d147cfeb7786@9d00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:ad9a01c8-5da2-4984-bf23-0064c513f852@ad9a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:ad77910a-096b-4aa7-af70-78977ebdfac4@ad77.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20470106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:06a90c48-401a-434e-9531-631bdaa6b3d1@06a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20440418
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:89b2d841-3786-4151-b308-f965185c4454@89b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20350106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:e1266713-deb6-4d28-bcdb-f8c8379fd576@e126.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:6480b382-1526-4fd2-b193-5d5661f6988d@6480.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20451224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:d56f7082-1e12-4d26-b702-842add25dac8@d56f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:af08fcaa-3f56-45a1-a424-b17c292d36e1@af08.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20460901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:7362a243-9641-4582-bce0-77809497a1cf@7362.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20350326
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:3560ccf1-1095-4790-815e-865b6628fe33@3560.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20340901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:9d5f8df1-df79-4180-b370-4f8b8c04a447@9d5f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20461117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:d2126ca5-1244-44b6-a310-c46922305a69@d212.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20410501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:c7bcc66a-00b3-4b6d-89d8-128775116298@c7bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:fe3596f4-7f7b-41db-a020-109fec79a2c1@fe35.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20390101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:80c417b6-659c-4ccc-bc21-c36d1c3dc0e2@80c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20440101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:d05a3bfe-e399-4990-ac95-c96bac4b865e@d05a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:ba3142df-234f-4936-99be-415670ffbd76@ba31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:8b5f7d2d-5bb8-4002-ab3c-2b6419e0c7c1@8b5f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20470829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:cf1dbc25-c505-4fe3-aea2-9e1dbfbb0912@cf1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20321225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:3c9a6b75-2ba6-431c-ba1e-0f3fc9768b66@3c9a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20460101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:44c154b2-e2ed-4493-9322-e55da266dd74@44c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20450101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:a7e4f7c4-9faf-46cd-95d5-76cb55517b67@a7e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20411028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:2013045d-09b6-4b93-a9ca-14197ed92c8b@2013.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250418
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:8fb237fb-0d55-4f3f-9c1c-6f0eab917628@8fb2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:e154b00d-998c-48c9-b50c-61403f21c959@e154.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270326
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:a022a880-03a9-47e6-8f4e-a7d3915ef435@a022.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:8368f825-9974-4204-a027-6e2629b7d01b@8368.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:36a47057-8d5b-4a86-9325-247cae34ee70@36a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20390508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:b5c11878-ab71-4229-b9d7-c4e54f29ef18@b5c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:c519a81c-a0a0-44e1-82ff-39a1f768ccc2@c519.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20470412
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:80aca98f-b4bc-4b48-a8da-98c96496d38b@80ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:b322a409-4fb7-4782-a7b0-ac7d4d331135@b322.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20410422
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:ba417005-cc98-4c04-a8cc-b308764f3342@ba41.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:368e910f-1388-4d9b-8716-c03617a1f3f0@368e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20311224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:265dd337-4872-411e-b756-370c3896bd75@265d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20341101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:e0df002c-0c36-4f32-90f3-cd5466724802@e0df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20430829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:66993694-66fa-4ae6-9c81-a7d62b0685b1@6699.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20490501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:96dc6781-beb2-48ab-9c1b-178b960b4513@96dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20490901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:da8ba9d3-cf84-45e7-89d9-edd72a29d28a@da8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20341225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:1b6a6c52-9999-4891-8fc4-c75cdabe653b@1b6a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20390915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:c959df27-1401-4637-b42d-46832d5814f1@c959.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20351028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:a577f145-e35a-4fae-ad35-c4c79081982d@a577.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:44b953ae-9ee2-40d6-8fc1-ea66b821db31@44b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20311225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:c1d2ccea-0f6f-47fb-983a-02b8294b36e3@c1d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20410901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:f5b00f36-3f95-4dc4-b4f5-9c834fd7a28d@f5b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20420829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:38055e89-1e9d-4336-861c-d5fc279f7e09@3805.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20411224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:dc495d92-2acc-4424-b43e-61dda8b4e3af@dc49.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20440901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:440532e0-ba29-4081-81a6-6c5a97381d44@4405.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20500101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:294dac27-fece-456a-b23d-c6b4d3b540b0@294d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:cba7d975-11fe-4ff6-a0ee-ac2c4e11384d@cba7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:f00ba44f-68b3-4461-a458-b6f2be69e120@f00b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20350605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:af61b8ef-990e-4d4f-9be2-65f0673b8350@af61.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20431117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:d098fce1-fcde-499c-bc88-ed6bdc56f7fd@d098.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20410106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:20d1b771-b59c-44db-9952-7a7069633afd@20d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20391226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:d080b7d0-640c-4b8f-9868-57678fdc43bc@d080.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20481028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:aace2446-b1ad-45e1-b947-280a7de4e0a7@aace.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20421224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:dc13ded2-8dc4-47f9-9eac-9ebe238b5236@dc13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20460501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:63c54a6d-5c8f-4136-8b0b-068b5d652282@63c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20320501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:28463e64-df63-4e62-8f2e-122a4d787288@2846.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20470605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:0c431811-92a5-4c42-a96e-86dce79678f9@0c43.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20371117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:89c7f765-82b9-404d-a32a-5f1621693a93@89c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20450605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:31a15461-2647-417f-ad1d-f861e4632692@31a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20360605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:ed21ba85-9056-4348-b6ac-a13151845dcd@ed21.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20450106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:692d62c4-e52f-40ba-bc6c-3dbd0d2d2ab8@692d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250421
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:1c0f5631-4c51-4729-bafe-c947ab2a301a@1c0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:08cdb142-9ed0-444f-a82b-d5029bf98b20@08cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20410508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:5d67d788-1f8a-4461-952f-8cbf763af0b2@5d67.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280414
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:f8b162c2-04fe-4788-80cd-2f63777f22cb@f8b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:98e71078-d709-4c4a-84c4-451247f2babe@98e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:4a9e4691-338d-44c4-8337-86af50572966@4a9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:0fc0753f-258f-4361-8a77-617c1df6a87f@0fc0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20320101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:e45f8f63-05e2-482a-ab78-2a34b850778f@e45f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:6c25cb92-2f0a-4a66-bf37-0f75abbc151e@6c25.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:91d7ea88-8596-43b5-82fc-fafe4d889328@91d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20441224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:338b1721-c751-4b95-a967-9618f5d34e63@338b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20480605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:44af1bf4-3774-4010-a38f-d04fdeb9d90d@44af.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20480501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:7664b3a9-541f-4b9e-9313-5308928bf9a5@7664.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20411117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:1be5ee8d-fadc-4ae2-8722-6c8cfe1942e5@1be5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:a2166191-09ef-4ac8-9e01-4233914917f0@a216.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20460323
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:36d714de-6687-4fcb-88ed-e94810e5a730@36d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20420106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:ad91cb43-4dd7-4070-b3d7-60fee2b65dcb@ad91.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20430106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:677caaf4-5225-4f04-a6f2-a516a9a82e95@677c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20461028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:1d6052ad-0d0c-424c-8b1f-ad50d7dcc662@1d60.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20400106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:800eeac8-9bfd-43dc-afcc-e293cc7b8707@800e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20400915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:c7b3fd2d-6f2d-47bb-82a3-a321142c3224@c7b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20340410
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:ca7e9c14-bbc4-440a-a869-299f1f975135@ca7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20490416
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:867dc193-0d07-4bb3-bbed-61a357304c1d@867d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:a9d48599-a158-4b3b-9b70-472152343cb2@a9d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20400901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:dbdabb03-42fa-4f45-bffc-a089f29d8668@dbda.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20500501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:ace498cd-492d-4350-a693-46dd008c8721@ace4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20391117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:3115b441-50b2-4ec1-b1d7-5f975e3a0f74@3115.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20431226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:7b5eb10a-fcff-45e3-81b4-6ff9d87c01aa@7b5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260406
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:8ad34c72-476c-4da1-86d1-9644df5682ab@8ad3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20380829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:dca9a812-3953-4577-bf62-3cc9fa0fac70@dca9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20351101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:658320f6-7820-489c-9d8f-311c416738ec@6583.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20420508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:a986aa95-c294-49f7-947e-6702e56135fc@a986.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20491224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:f5420c71-21d4-4c09-821e-46bd8067f59e@f542.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:9d56fa2c-34ff-4447-b6a2-e80de8c24044@9d56.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:3e5ddf1f-8ff1-4034-9b59-73f1f31d3b43@3e5d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20501028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:f66fa5d8-19c4-4162-afe5-ac8463918ff7@f66f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20350323
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:26209fe3-0513-4f4f-b9f8-5b31930a52c9@2620.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310414
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:3e01fd18-2d43-4546-934a-8c4522e303f9@3e01.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20380101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:feddd1f0-1c24-4606-b520-4e83867bfe1a@fedd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20450915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:2eea6eb1-c254-40aa-88cf-14df627c155f@2eea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20390411
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:d14f03a3-ffb4-4526-9e95-caf21056a791@d14f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:3bc2b410-90e0-4207-87a0-7445833e175f@3bc2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20381224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:cd0d6314-7e68-4cc9-9cbd-50bec21c2aaa@cd0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20501224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:e59937bb-6b85-4a3c-ad68-0a5b9a7bd6d5@e599.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20420101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:21bc9307-d798-4879-8834-174c5f002853@21bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20380915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:34a5ee05-f747-4f9f-9e0c-e4aaf5bb38fe@34a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:11f5f6f9-6786-45fd-b230-749336ebc789@11f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:69804e1d-7f73-4891-b259-e926c8d41990@6980.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:c1cb791c-060d-48a6-aa53-b3920f9b35c9@c1cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20450508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:75916f58-eeff-4dae-aacb-fcbb6c6d9cb0@7591.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:2a80da11-f282-4715-81c8-92ad850d7c30@2a80.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20450901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:5c0fd376-f790-4e2c-bf26-38b1688416f3@5c0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20471117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:5978c56c-5727-4f43-a0f5-8d84f42cced6@5978.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20500915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:61eca19c-5366-4a0a-9d73-1f9012aae5c2@61ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20461101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:d8258068-e95e-4912-b462-9c9c8eb6a656@d825.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:9bdccca1-c40f-4b4f-aae6-96b8bd4fbd10@9bdc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300419
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:00187ecd-2887-4da2-9ceb-024f98108cbd@0018.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:74736ff1-2a79-4e34-9362-05a951567696@7473.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20440915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:551b69c1-082f-46f5-892c-6a0fffa8f649@551b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20400101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:88506659-b864-42e2-a0fe-50d230777236@8850.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20431225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:29df6c89-c7f1-430d-b782-d89d0f144b03@29df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20471028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:1620670e-7572-4a07-b136-141816c533df@1620.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:d976b1af-8539-4b7d-b108-fe4fe7afa016@d976.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20481117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:4a55bcfc-6e28-4282-9d99-c9d3d2ce5bb0@4a55.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20470501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:e8f750e6-68f5-4993-8ef2-0bb9c8be0291@e8f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:d7228c23-fc08-4ddc-9b1c-efce04c66752@d722.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:6f8b8084-f18d-4fb2-b51f-2b04e2aba16c@6f8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20361117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:e2dc5f56-bb14-4b6b-9424-36c2bc9785d7@e2dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20391101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:b9e028f0-ef25-43db-a415-4e6241a35bc5@b9e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20450410
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:33f46948-b435-4b31-9de1-c29407628dd7@33f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20420901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:b7dad834-ff1e-4703-adf8-a6d70e8f50cf@b7da.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20410101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:52e2f8fa-32e8-4cba-95c5-f758562b3467@52e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20360411
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:41f19e09-2118-4809-9681-3c92a1185bad@41f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20360508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:a3c3a63e-2406-4d53-9c5c-9660f354b853@a3c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290330
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:3276eb3b-1b8c-406f-8ebd-7adfae962ac1@3276.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:967c8a72-5116-4e32-b776-2c8636423967@967c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20380426
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:d9efec6f-3574-4eae-a190-9dbcaa8f2406@d9ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:fe270708-c7ae-4236-8312-c559b0d754fa@fe27.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20341226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:58ac8b3a-bdf5-4ad0-8a5a-0ed57a61ef11@58ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20370106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:d253d8f1-d7c0-4b0f-a3a7-32f4359a5a00@d253.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20370829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:8e91ca54-3d3a-4c01-8a5a-14e41376eb4f@8e91.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20500901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:ccf5acc9-014f-44ae-af0b-bcc7947e50c4@ccf5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20311226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:1646f361-a49a-4032-af0f-e7875a550b1b@1646.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:c6316622-c3bb-4e5e-9958-e6f5fade7138@c631.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:0bd38ad5-9320-4c5b-bc18-88b4fcf27af4@0bd3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20480406
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:048b0824-a347-4071-b8a9-9ec1b90f9bbe@048b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:d7a3b91f-9bd7-44b2-8d14-6d3c63bd1189@d7a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20430330
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:d67dcf2c-c257-443e-b78b-0781b9c7c088@d67d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20390901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:69e383f2-ed29-4eed-8dfd-feaffb749548@69e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:616f89dd-7c49-4c57-8e5f-6c992976378f@616f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20340407
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:25dab1e3-a170-412a-bf99-0a4bb27386f7@25da.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20440508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:fb546f6e-40b1-464c-ad23-582ef1e32b16@fb54.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:a5bf1d50-53be-4f55-9b4c-3418dbc38e0c@a5bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20360101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:f0beb00d-5196-458d-b1bc-bdff7d18ba3e@f0be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:9c76a871-ce92-4c92-96b6-fcf56c1e1936@9c76.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20501117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:79e85fbe-a61f-406b-8c17-7b8285316dae@79e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20440605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:327604cf-5e77-4f9f-b988-5710d9ef6d3a@3276.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20321226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:4ec511c9-e1b7-4c2a-8c65-540d6cf1e5c7@4ec5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:a553dcee-1965-4847-bacd-d245c5b74ea8@a553.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20380501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:9043fb8b-dcf8-410e-807c-10156c16c196@9043.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20320329
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:62df91b7-b399-4894-bd91-5b3e959aeb4f@62df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20401226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:e2beeb07-9eed-4f17-b42a-683edb1368c1@e2be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:ee8dc670-9018-4ff9-afde-3bb4274ad88b@ee8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20430605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:2b110658-f5c9-4365-ae13-716147597af2@2b11.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:dc92aefd-1ed0-45e3-b66c-7c5484e61aba@dc92.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20460508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:bf56928b-8d9e-46c0-a974-19c4b06780a6@bf56.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20411225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:72a5b36c-188a-4ba7-aa34-41971ab1f060@72a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20411226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:188188ba-9f5c-4dd5-ad13-69b29f079d61@1881.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20451226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:a4516343-7b35-448f-825c-763c25a7cef2@a451.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20340605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:8ad1bd7e-c050-43d6-9d3c-3aaba7b9650b@8ad1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20500508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:b6b26bb5-9a2c-4907-983a-87e57860f0e7@b6b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20451101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:dde17a29-736c-4a28-9197-4ab3d3da5f8d@dde1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20360901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:be9cbae8-3212-435f-a85b-90a8287da471@be9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20400829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:2663086c-b8ba-4815-bcf7-2625e1fd964b@2663.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20400501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:c37b02ce-fc6f-442d-b3d1-eaaa34439cbe@c37b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20340508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:34f86aa0-22b9-4fb8-bb92-7417df64e49f@34f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20431028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:3af58a23-d986-4b1a-825c-25264a08eccb@3af5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:d4f62166-830c-4254-964e-9f2b0a940e6c@d4f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20370403
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľký piatok [V]
+UID:de8c0941-7b6a-4d4a-8c16-5f69e02a6a46@de8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20320829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:60214e6e-a444-4399-802c-4caf94b59c05@6021.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20470915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:519fc82e-653b-4ba6-8b0d-8c0ab7dbcd05@519f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20430101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:e913c9bc-e029-4ca6-8957-8e9cf6519030@e913.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20371224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:d552b57f-5968-438e-bf99-15f551d1ce09@d552.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20370406
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:83255f14-7abb-4b99-9b5e-444f2bb99f9b@8325.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20421225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:c72454f9-2b46-4651-81f3-61ebdac7add0@c724.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20340106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:ca290a83-6951-46e6-bcf6-501382c789a6@ca29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20340501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:776de053-9d70-47f5-b865-df02edb85d8e@776d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20361224
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Štedrý deň [V]
+UID:4969b5ad-021e-4aaf-bd1d-2e48827a578f@4969.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20320915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:6e82a2ac-11f1-4bb7-b014-f24ac5670ba9@6e82.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20450829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:aec9b5d2-23e4-4b92-bba4-f6fb0c75cb99@aec9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20400402
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:28cd8a4a-c6b6-4941-90fb-505b3df5919b@28cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20321101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:ed0d0d9e-1aec-49fd-bf6f-b38a9bce7b23@ed0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20480106
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Zjavenie pána [V]
+UID:68722fdc-7623-4c35-ae85-2831ce949b4e@6872.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20350829
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Výročie SNP [V]
+UID:2cb1078d-f876-4581-8798-bebe5761991a@2cb1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280901
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň Ústavy Slovenskej republiky 
+UID:55f6a132-a157-44c8-88b5-8a252c82e255@55f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20480915
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sedembolestnej Panny Márie [V]
+UID:36248671-176f-4c37-a596-5e426a7ab2b1@3624.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20441101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Všetkých svätých [V]
+UID:5d347b18-c9cd-405e-8707-1bfa76970001@5d34.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260101
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň vzniku Slovenskej republiky [V]
+UID:dae4dd74-4c87-40bc-a1ed-57533d583882@dae4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:763bc56b-8d25-404c-aaee-0cd06be35402@763b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:7e4581e5-144f-4285-8931-a9f09a0e7d7d@7e45.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20401117
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň boja za slobodu a demokraciu [V]
+UID:cc54bab2-ed56-475d-84fc-37f98d53bae8@cc54.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20441028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:971a7eb0-120a-472e-8887-bbc9c6711988@971a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20391225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:320980b6-8742-4d1d-bf28-8786ca5b00a8@3209.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20320605
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok svätého Cyrila a Metoda [V]
+UID:589551d6-631b-47aa-a836-1c580f9a6cf1@5895.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270329
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Veľkonočný pondelok [V]
+UID:08e1631f-0200-4007-aa9c-e0af2b0df469@08e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20451225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:e1c829d6-7768-4527-a366-20ce54f9dea0@e1c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Deň víťazstva nad fašizmom [V]
+UID:faf2bd9c-fadb-463b-a699-63c87cb2a368@faf2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:64c23176-b78e-49c0-8493-c912781a9431@64c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20421226
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Druhý sviatok vianočný [V]
+UID:d12a9313-1b28-4cfd-b559-771623f64370@d12a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261028
+DESCRIPTION:Štátny sviatok bez pracovného voľna
+SUMMARY:Deň vzniku samostatného česko-slovenského štátu 
+UID:700599d4-19f1-43f1-8aa0-1920d9a36d50@7005.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20360501
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Sviatok práce [V]
+UID:61ed8741-8189-4b94-a513-44008398184e@61ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20491225
+DESCRIPTION:Štátny sviatok s pracovným voľnom
+SUMMARY:Prvý sviatok vianočný [V]
+UID:37d1ef6c-293e-4de8-924d-e10fae31a41a@37d1.org
+END:VEVENT
+END:VCALENDAR
